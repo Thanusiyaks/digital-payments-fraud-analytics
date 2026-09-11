@@ -1,0 +1,1001 @@
+Transaction_ID,Transaction_Date,Transaction_Time,Customer_ID,Amount,Payment_Method,Transaction_Type,Location,Device_Type,Merchant_Category,Customer_Age,Transaction_Status,Fraud_Flag
+TXN100001,2026-01-01,06:46,CUST1051,167.74,Wallet,Online Purchase,Chennai,Mobile,Fashion,26,Successful,0
+TXN100002,2026-01-01,19:00,CUST1106,195.2,Credit Card,Online Purchase,Delhi,Mobile,Grocery,34,Successful,0
+TXN100003,2026-01-01,14:25,CUST1112,104.43,Debit Card,Bill Payment,Bengaluru,Tablet,Electronics,22,Successful,0
+TXN100004,2026-01-01,10:13,CUST1197,185.69,UPI,Online Purchase,Kochi,Mobile,Grocery,48,Successful,0
+TXN100005,2026-01-01,07:37,CUST1169,229.96,UPI,Money Transfer,Coimbatore,Mobile,Electronics,57,Successful,0
+TXN100006,2026-01-01,20:36,CUST1072,101.61,Wallet,Online Purchase,Bengaluru,Mobile,Travel,55,Successful,0
+TXN100007,2026-01-02,06:10,CUST1139,61.6,Credit Card,Online Purchase,Delhi,Mobile,Food,60,Successful,0
+TXN100008,2026-01-02,18:35,CUST1080,657.19,Net Banking,ATM,Coimbatore,Mobile,Utilities,36,Successful,0
+TXN100009,2026-01-02,22:12,CUST1180,331.66,UPI,Online Purchase,Coimbatore,Tablet,Utilities,53,Successful,0
+TXN100010,2026-01-02,10:42,CUST1151,104.83,UPI,Subscription,Pune,Mobile,Utilities,50,Successful,0
+TXN100011,2026-01-02,10:02,CUST1049,225.8,UPI,ATM,Hyderabad,Mobile,Grocery,30,Successful,0
+TXN100012,2026-01-02,23:32,CUST1166,41.32,Debit Card,Money Transfer,Bengaluru,Mobile,Entertainment,31,Successful,0
+TXN100013,2026-01-03,20:05,CUST1047,25.1,UPI,Money Transfer,Hyderabad,Mobile,Fashion,50,Successful,0
+TXN100014,2026-01-03,03:49,CUST1072,536.0,Net Banking,Subscription,Coimbatore,Mobile,Utilities,46,Successful,0
+TXN100015,2026-01-03,07:55,CUST1007,228.05,Credit Card,Online Purchase,Chennai,Desktop,Travel,60,Successful,0
+TXN100016,2026-01-03,23:09,CUST1066,172.83,Wallet,Online Purchase,Coimbatore,Desktop,Utilities,53,Successful,0
+TXN100017,2026-01-03,02:04,CUST1077,228.76,UPI,Online Purchase,Hyderabad,Mobile,Electronics,61,Under Review,1
+TXN100018,2026-01-04,21:22,CUST1062,4564.81,Net Banking,ATM,,Desktop,Grocery,27,Successful,0
+TXN100019,2026-01-04,20:09,CUST1157,432.29,Debit Card,Online Purchase,Delhi,Desktop,Entertainment,48,Successful,0
+TXN100020,2026-01-04,01:43,CUST1038,63.72,Debit Card,Money Transfer,Pune,Desktop,Electronics,23,Successful,0
+TXN100021,2026-01-04,23:01,CUST1125,33.77,Net Banking,Subscription,Pune,Mobile,Entertainment,18,Successful,0
+TXN100022,2026-01-04,11:12,CUST1084,520.37,Debit Card,ATM,Pune,Mobile,Electronics,24,Successful,0
+TXN100023,2026-01-04,05:39,CUST1161,426.71,Debit Card,Money Transfer,Delhi,Mobile,Electronics,44,Successful,0
+TXN100024,2026-01-05,01:01,CUST1029,322.16,UPI,Online Purchase,Pune,Mobile,Food,38,Successful,0
+TXN100025,2026-01-05,20:19,CUST1114,80.41,UPI,ATM,Bengaluru,Mobile,Food,45,Successful,0
+TXN100026,2026-01-05,00:00,CUST1079,260.68,Wallet,Money Transfer,Delhi,Mobile,Fashion,33,Successful,0
+TXN100027,2026-01-05,11:36,CUST1023,87.94,Debit Card,Online Purchase,Pune,Desktop,Grocery,63,Successful,0
+TXN100028,2026-01-05,21:08,CUST1106,351.7,Debit Card,Online Purchase,Delhi,Desktop,Travel,40,Successful,0
+TXN100029,2026-01-06,11:16,CUST1131,484.28,Credit Card,Subscription,Hyderabad,Desktop,Travel,37,Successful,0
+TXN100030,2026-01-06,16:08,CUST1101,105.27,UPI,Money Transfer,Kochi,Mobile,Travel,55,Successful,0
+TXN100031,2026-01-06,09:10,CUST1173,562.17,UPI,ATM,Kochi,Mobile,Electronics,42,Successful,0
+TXN100032,2026-01-06,15:14,CUST1008,203.33,Debit Card,ATM,Bengaluru,Mobile,Food,45,Successful,0
+TXN100033,2026-01-06,14:23,CUST1086,296.45,Credit Card,Money Transfer,Mumbai,Mobile,Grocery,22,Successful,0
+TXN100034,2026-01-06,14:37,CUST1117,48.93,UPI,Bill Payment,Chennai,Mobile,Electronics,38,Successful,0
+TXN100035,2026-01-07,18:54,CUST1029,228.66,Credit Card,Bill Payment,Pune,Mobile,Entertainment,35,Successful,0
+TXN100036,2026-01-07,11:34,CUST1002,92.24,UPI,Online Purchase,Chennai,Mobile,Food,64,Successful,0
+TXN100037,2026-01-07,22:29,CUST1113,291.38,Debit Card,Bill Payment,Delhi,Desktop,Food,23,Successful,0
+TXN100038,2026-01-07,19:30,CUST1178,786.16,UPI,ATM,Chennai,Mobile,Utilities,46,Successful,0
+TXN100039,2026-01-07,02:48,CUST1065,242.14,Debit Card,Money Transfer,Bengaluru,Desktop,Utilities,36,Successful,0
+TXN100040,2026-01-08,04:04,CUST1108,73.64,UPI,Subscription,Bengaluru,Mobile,Grocery,50,Under Review,1
+TXN100041,2026-01-08,18:59,CUST1020,339.16,Credit Card,Bill Payment,Coimbatore,Mobile,Entertainment,18,Successful,0
+TXN100042,2026-01-08,06:43,CUST1180,270.91,UPI,Money Transfer,Kochi,Mobile,Grocery,62,Successful,0
+TXN100043,2026-01-08,20:49,CUST1037,1420.27,UPI,Money Transfer,Pune,Mobile,Grocery,20,Successful,0
+TXN100044,2026-01-08,08:13,CUST1072,233.68,UPI,Money Transfer,Coimbatore,Mobile,Electronics,59,Successful,0
+TXN100045,2026-01-08,06:52,CUST1027,100.94,Credit Card,Money Transfer,Chennai,Mobile,Fashion,38,Successful,0
+TXN100046,2026-01-09,17:55,CUST1175,391.76,Debit Card,Online Purchase,Mumbai,Mobile,Grocery,52,Successful,0
+TXN100047,2026-01-09,03:10,CUST1123,159.54,UPI,Bill Payment,Coimbatore,Mobile,Utilities,58,Successful,0
+TXN100048,2026-01-09,13:08,CUST1134,196.42,Debit Card,Online Purchase,Coimbatore,Mobile,Fashion,57,Successful,0
+TXN100049,2026-01-09,17:33,CUST1188,71.63,Net Banking,Bill Payment,Bengaluru,Desktop,Electronics,20,Successful,0
+TXN100050,2026-01-09,08:11,CUST1045,160.38,Debit Card,Bill Payment,Mumbai,Mobile,Fashion,42,Successful,0
+TXN100051,2026-01-10,20:34,CUST1172,186.94,UPI,Money Transfer,Delhi,Desktop,Travel,62,Successful,0
+TXN100052,2026-01-10,01:34,CUST1083,159.44,Credit Card,Subscription,Chennai,Mobile,Entertainment,55,Successful,0
+TXN100053,2026-01-10,19:00,CUST1146,100.4,UPI,Money Transfer,Coimbatore,Tablet,Fashion,62,Successful,0
+TXN100054,2026-01-10,14:39,CUST1120,241.83,UPI,ATM,Mumbai,Desktop,Grocery,37,Successful,0
+TXN100055,2026-01-10,06:21,CUST1065,71.99,Wallet,Bill Payment,Kochi,Mobile,Electronics,61,Successful,0
+TXN100056,2026-01-10,11:59,CUST1025,56.88,UPI,Money Transfer,Pune,Mobile,Entertainment,62,Failed,0
+TXN100057,2026-01-11,07:28,CUST1027,368.54,Credit Card,Online Purchase,Mumbai,Desktop,Grocery,51,Successful,0
+TXN100058,2026-01-11,14:07,CUST1135,336.21,Debit Card,Online Purchase,Kochi,Mobile,Entertainment,38,Successful,0
+TXN100059,2026-01-11,02:10,CUST1172,49.03,Debit Card,Bill Payment,Chennai,Mobile,Utilities,65,Successful,0
+TXN100060,2026-01-11,13:40,CUST1106,29.09,Credit Card,Bill Payment,Mumbai,Mobile,Travel,40,Successful,0
+TXN100061,2026-01-11,16:36,CUST1157,66.11,UPI,Online Purchase,Kochi,Desktop,Utilities,23,Successful,0
+TXN100062,2026-01-11,03:13,CUST1044,159.45,UPI,Online Purchase,Mumbai,Desktop,Grocery,30,Blocked,1
+TXN100063,2026-01-12,17:59,CUST1107,574.99,Credit Card,Online Purchase,Mumbai,Mobile,Grocery,40,Successful,0
+TXN100064,2026-01-12,07:29,CUST1036,155.59,UPI,Subscription,Pune,Mobile,Grocery,26,Successful,0
+TXN100065,2026-01-12,03:34,CUST1147,83.99,UPI,Online Purchase,Kochi,Mobile,Food,34,Under Review,1
+TXN100066,2026-01-12,01:20,CUST1006,210.31,UPI,Bill Payment,Kochi,Mobile,Travel,19,Successful,0
+TXN100067,2026-01-12,05:36,CUST1153,161.74,UPI,Online Purchase,Coimbatore,Tablet,Entertainment,36,Successful,0
+TXN100068,2026-01-13,21:04,CUST1159,45.56,UPI,Money Transfer,Chennai,Mobile,Grocery,36,Successful,0
+TXN100069,2026-01-13,09:18,CUST1009,45.83,UPI,Online Purchase,Pune,Mobile,Grocery,24,Successful,0
+TXN100070,2026-01-13,03:58,CUST1165,47.08,Credit Card,Online Purchase,Mumbai,Mobile,Entertainment,59,Successful,0
+TXN100071,2026-01-13,21:13,CUST1155,2164.3,Debit Card,Bill Payment,Mumbai,Desktop,Utilities,59,Successful,0
+TXN100072,2026-01-13,17:25,CUST1013,428.37,Net Banking,Online Purchase,Coimbatore,Mobile,Utilities,37,Successful,0
+TXN100073,2026-01-13,11:03,CUST1041,100.11,UPI,Online Purchase,Chennai,Mobile,Grocery,26,Successful,0
+TXN100074,2026-01-14,01:24,CUST1128,549.09,UPI,Online Purchase,Bengaluru,Mobile,Electronics,34,Failed,0
+TXN100075,2026-01-14,09:44,CUST1066,102.71,UPI,Online Purchase,Pune,Mobile,Food,44,Successful,0
+TXN100076,2026-01-14,03:41,CUST1085,531.22,Debit Card,Online Purchase,Coimbatore,Mobile,Utilities,64,Successful,0
+TXN100077,2026-01-14,13:24,CUST1024,196.43,Debit Card,Online Purchase,Chennai,Mobile,Electronics,19,Failed,0
+TXN100078,2026-01-14,15:17,CUST1044,93.8,UPI,ATM,Pune,Mobile,Food,53,Successful,0
+TXN100079,2026-01-15,14:39,CUST1106,357.74,Wallet,Money Transfer,Mumbai,Tablet,Grocery,36,Blocked,1
+TXN100080,2026-01-15,07:07,CUST1098,208.0,UPI,Bill Payment,Chennai,Desktop,Travel,34,Successful,0
+TXN100081,2026-01-15,13:38,CUST1060,269.96,Credit Card,Online Purchase,Chennai,Tablet,Fashion,22,Successful,0
+TXN100082,2026-01-15,22:39,CUST1009,224.87,Debit Card,Subscription,Delhi,Mobile,Fashion,56,Successful,0
+TXN100083,2026-01-15,07:13,CUST1130,222.52,Net Banking,Bill Payment,Chennai,Tablet,Grocery,35,Successful,0
+TXN100084,2026-01-15,20:31,CUST1056,403.65,Debit Card,Online Purchase,Bengaluru,Mobile,Utilities,24,Successful,0
+TXN100085,2026-01-16,15:50,CUST1158,2401.4,Net Banking,Money Transfer,Chennai,Mobile,Electronics,34,Successful,0
+TXN100086,2026-01-16,12:37,CUST1022,631.94,,Online Purchase,Bengaluru,Mobile,Travel,56,Successful,0
+TXN100087,2026-01-16,17:32,CUST1081,225.8,Net Banking,Bill Payment,Mumbai,Mobile,Entertainment,53,Successful,0
+TXN100088,2026-01-16,14:22,CUST1100,132.87,UPI,Bill Payment,Bengaluru,Mobile,Food,57,Successful,0
+TXN100089,2026-01-16,20:14,CUST1013,148.3,Net Banking,ATM,Pune,Mobile,Grocery,62,Failed,0
+TXN100090,2026-01-17,23:32,CUST1071,51.62,Credit Card,Bill Payment,Mumbai,Mobile,Travel,21,Successful,0
+TXN100091,2026-01-17,12:24,CUST1016,352.32,Net Banking,Money Transfer,Mumbai,Mobile,Travel,55,Successful,0
+TXN100092,2026-01-17,08:16,CUST1045,65.7,Credit Card,Subscription,Bengaluru,Mobile,Utilities,42,Successful,0
+TXN100093,2026-01-17,14:32,CUST1065,124.9,Debit Card,Online Purchase,Kochi,Mobile,Food,22,Successful,0
+TXN100094,2026-01-17,12:46,CUST1139,354.37,Credit Card,Online Purchase,Coimbatore,Mobile,Travel,47,Successful,0
+TXN100095,2026-01-17,00:54,CUST1070,142.98,Debit Card,Bill Payment,Hyderabad,Desktop,Utilities,29,Successful,1
+TXN100096,2026-01-18,06:01,CUST1148,110.8,UPI,Bill Payment,Kochi,Desktop,Electronics,21,Successful,0
+TXN100097,2026-01-18,08:13,CUST1099,54.74,UPI,Bill Payment,Chennai,Mobile,Utilities,41,Successful,0
+TXN100098,2026-01-18,23:52,CUST1191,605.06,UPI,Subscription,Delhi,Mobile,Electronics,46,Successful,0
+TXN100099,2026-01-18,00:39,CUST1101,78.79,UPI,Money Transfer,Hyderabad,Mobile,Electronics,26,Under Review,1
+TXN100100,2026-01-18,11:39,CUST1105,100.9,Net Banking,Money Transfer,Chennai,Desktop,Entertainment,21,Successful,0
+TXN100101,2026-01-19,07:50,CUST1140,30.21,UPI,Online Purchase,Kochi,Mobile,Entertainment,41,Successful,0
+TXN100102,2026-01-19,23:38,CUST1190,177.71,Wallet,ATM,Kochi,Mobile,Travel,31,Successful,0
+TXN100103,2026-01-19,10:50,CUST1094,129.89,UPI,Subscription,Chennai,Mobile,Utilities,22,Successful,0
+TXN100104,2026-01-19,18:05,CUST1042,217.43,UPI,ATM,Mumbai,Mobile,Entertainment,35,Successful,0
+TXN100105,2026-01-19,16:05,CUST1083,56.0,Debit Card,Online Purchase,Chennai,Mobile,Electronics,59,Successful,0
+TXN100106,2026-01-19,07:02,CUST1197,377.73,Debit Card,Money Transfer,Delhi,Desktop,Entertainment,36,Successful,0
+TXN100107,2026-01-20,02:06,CUST1186,28.81,Credit Card,Online Purchase,Kochi,Mobile,Food,29,Successful,0
+TXN100108,2026-01-20,02:50,CUST1133,165.31,Credit Card,Online Purchase,Chennai,Mobile,Travel,35,Successful,0
+TXN100109,2026-01-20,00:07,CUST1105,203.46,Debit Card,Online Purchase,Bengaluru,Desktop,Utilities,34,Successful,1
+TXN100110,2026-01-20,04:41,CUST1155,192.05,UPI,Money Transfer,Hyderabad,Desktop,Utilities,47,Successful,0
+TXN100111,2026-01-20,09:51,CUST1028,212.25,Wallet,Money Transfer,Bengaluru,Mobile,Fashion,41,Successful,0
+TXN100112,2026-01-21,06:14,CUST1026,398.88,Wallet,Online Purchase,Delhi,Mobile,Utilities,28,Successful,1
+TXN100113,2026-01-21,08:46,CUST1116,681.77,Debit Card,Bill Payment,Chennai,Mobile,Travel,52,Successful,0
+TXN100114,2026-01-21,06:28,CUST1049,155.15,UPI,Bill Payment,Pune,Tablet,Food,40,Successful,0
+TXN100115,2026-01-21,08:32,CUST1149,68.87,Debit Card,Bill Payment,Delhi,Mobile,Utilities,34,Successful,0
+TXN100116,2026-01-21,07:51,CUST1001,317.58,UPI,Online Purchase,Mumbai,Tablet,Fashion,18,Successful,0
+TXN100117,2026-01-21,11:29,CUST1092,136.97,UPI,Bill Payment,Bengaluru,Mobile,Travel,32,Successful,0
+TXN100118,2026-01-22,01:38,CUST1058,642.02,UPI,ATM,Bengaluru,Mobile,Electronics,49,Successful,0
+TXN100119,2026-01-22,00:26,CUST1079,99.29,Credit Card,Online Purchase,Coimbatore,Mobile,Grocery,26,Successful,0
+TXN100120,2026-01-22,15:35,CUST1183,76.86,Net Banking,Online Purchase,Chennai,Mobile,Grocery,32,Successful,0
+TXN100121,2026-01-22,22:28,CUST1081,209.31,Debit Card,Bill Payment,Mumbai,Mobile,Electronics,45,Failed,0
+TXN100122,2026-01-22,22:37,CUST1026,31.8,Debit Card,Subscription,Pune,Mobile,Entertainment,41,Successful,0
+TXN100123,2026-01-22,23:56,CUST1153,113.59,Credit Card,Money Transfer,Bengaluru,Mobile,Utilities,52,Successful,0
+TXN100124,2026-01-23,04:32,CUST1077,130.34,UPI,Money Transfer,Bengaluru,Tablet,Grocery,39,Under Review,1
+TXN100125,2026-01-23,02:36,CUST1161,225.99,UPI,Bill Payment,Mumbai,Mobile,Entertainment,44,Successful,0
+TXN100126,2026-01-23,11:26,CUST1072,66.94,Wallet,Money Transfer,Delhi,Mobile,Grocery,36,Successful,0
+TXN100127,2026-01-23,07:54,CUST1069,75.23,UPI,Online Purchase,Delhi,Mobile,Electronics,62,Successful,0
+TXN100128,2026-01-23,21:32,CUST1006,576.46,Net Banking,Money Transfer,Chennai,Mobile,Utilities,29,Successful,0
+TXN100129,2026-01-24,02:03,CUST1023,178.85,Credit Card,Subscription,Kochi,Mobile,Utilities,37,Successful,0
+TXN100130,2026-01-24,00:21,CUST1158,430.37,Credit Card,Money Transfer,Coimbatore,Mobile,Entertainment,18,Blocked,1
+TXN100131,2026-01-24,02:01,CUST1054,105.45,Debit Card,ATM,Bengaluru,Tablet,Electronics,38,Blocked,1
+TXN100132,2026-01-24,04:09,CUST1087,171.67,Credit Card,Money Transfer,Kochi,Mobile,Entertainment,62,Under Review,1
+TXN100133,2026-01-24,14:04,CUST1011,224.65,Net Banking,Online Purchase,Kochi,Mobile,Utilities,18,Successful,0
+TXN100134,2026-01-24,13:58,CUST1159,1040.6,Net Banking,Subscription,Coimbatore,Mobile,Utilities,27,Successful,0
+TXN100135,2026-01-25,02:09,CUST1134,145.82,Credit Card,Online Purchase,Kochi,Mobile,Travel,64,Successful,0
+TXN100136,2026-01-25,00:32,CUST1011,153.5,UPI,Money Transfer,Kochi,Mobile,Entertainment,49,Blocked,1
+TXN100137,2026-01-25,04:53,CUST1077,543.57,Debit Card,Online Purchase,Delhi,Desktop,Travel,56,Under Review,1
+TXN100138,2026-01-25,22:37,CUST1012,123.99,Net Banking,Online Purchase,Delhi,Desktop,Electronics,39,Successful,0
+TXN100139,2026-01-25,13:12,CUST1194,240.96,UPI,Bill Payment,Hyderabad,Mobile,Food,35,Successful,0
+TXN100140,2026-01-26,06:30,CUST1053,498.18,Debit Card,Online Purchase,Pune,Mobile,Grocery,65,Successful,0
+TXN100141,2026-01-26,08:46,CUST1099,101.92,Debit Card,Bill Payment,Chennai,Mobile,Travel,63,Successful,0
+TXN100142,2026-01-26,14:35,CUST1036,254.8,Debit Card,Money Transfer,Kochi,Mobile,Grocery,49,Successful,0
+TXN100143,2026-01-26,14:44,CUST1145,1038.52,UPI,Online Purchase,Hyderabad,Mobile,Fashion,44,Successful,0
+TXN100144,2026-01-26,09:23,CUST1028,455.46,Debit Card,Online Purchase,Pune,Mobile,Electronics,45,Successful,0
+TXN100145,2026-01-26,12:51,CUST1150,241.03,Net Banking,Money Transfer,Hyderabad,Mobile,Food,35,Successful,0
+TXN100146,2026-01-27,18:55,CUST1102,144.85,UPI,Bill Payment,Hyderabad,Mobile,Fashion,56,Successful,0
+TXN100147,2026-01-27,06:14,CUST1007,99.06,UPI,Money Transfer,Chennai,Mobile,Fashion,46,Successful,0
+TXN100148,2026-01-27,16:28,CUST1015,67.48,Wallet,Money Transfer,Chennai,Mobile,Utilities,35,Successful,0
+TXN100149,2026-01-27,19:07,CUST1139,820.26,UPI,ATM,Mumbai,Mobile,Fashion,61,Successful,0
+TXN100150,2026-01-27,03:04,CUST1024,675.51,Net Banking,Money Transfer,Coimbatore,Mobile,Electronics,25,Successful,1
+TXN100151,2026-01-28,04:28,CUST1195,93.96,Credit Card,Bill Payment,Coimbatore,Desktop,Travel,48,Under Review,1
+TXN100152,2026-01-28,22:46,CUST1030,254.09,UPI,Money Transfer,Mumbai,Mobile,Electronics,51,Successful,0
+TXN100153,2026-01-28,06:03,CUST1198,202.62,Net Banking,Online Purchase,Mumbai,Mobile,Travel,24,Successful,0
+TXN100154,2026-01-28,12:11,CUST1066,592.54,Credit Card,Online Purchase,Delhi,Mobile,Fashion,53,Successful,0
+TXN100155,2026-01-28,14:44,CUST1061,265.82,Credit Card,ATM,Pune,Desktop,Fashion,35,Successful,0
+TXN100156,2026-01-28,10:01,CUST1078,177.18,UPI,Bill Payment,Hyderabad,Mobile,Food,55,Successful,0
+TXN100157,2026-01-29,03:26,CUST1041,105.46,Debit Card,ATM,Kochi,Mobile,Travel,26,Successful,0
+TXN100158,2026-01-29,12:30,CUST1082,254.9,UPI,ATM,Mumbai,Mobile,Fashion,26,Successful,0
+TXN100159,2026-01-29,06:50,CUST1051,127.97,UPI,ATM,Bengaluru,Desktop,Utilities,63,Successful,0
+TXN100160,2026-01-29,18:50,CUST1172,226.03,Wallet,Subscription,Coimbatore,Tablet,Grocery,25,Successful,0
+TXN100161,2026-01-29,21:35,CUST1095,168.01,UPI,Bill Payment,Mumbai,Mobile,Food,52,Successful,0
+TXN100162,2026-01-30,01:35,CUST1013,124.9,Debit Card,Online Purchase,Bengaluru,Desktop,Electronics,35,Under Review,1
+TXN100163,2026-01-30,09:25,CUST1090,68.53,UPI,Money Transfer,Bengaluru,Tablet,Food,22,Successful,0
+TXN100164,2026-01-30,12:42,CUST1140,303.14,Debit Card,Bill Payment,Bengaluru,Desktop,Grocery,31,Successful,0
+TXN100165,2026-01-30,20:26,CUST1082,189.16,UPI,Money Transfer,Delhi,Mobile,Travel,45,Successful,0
+TXN100166,2026-01-30,05:04,CUST1009,1082.92,Wallet,Money Transfer,Delhi,Mobile,Electronics,47,Successful,0
+TXN100167,2026-01-30,11:19,CUST1048,64.56,Credit Card,Money Transfer,Kochi,Mobile,Electronics,21,Successful,0
+TXN100168,2026-01-31,11:10,CUST1049,338.76,UPI,Bill Payment,Kochi,Desktop,Travel,56,Successful,0
+TXN100169,2026-01-31,19:09,CUST1053,166.89,UPI,Online Purchase,Bengaluru,Mobile,Entertainment,37,Successful,0
+TXN100170,2026-01-31,10:39,CUST1184,1479.94,UPI,Bill Payment,Pune,Mobile,Entertainment,42,Successful,0
+TXN100171,2026-01-31,22:37,CUST1040,313.87,Credit Card,Online Purchase,Delhi,Mobile,Food,45,Successful,0
+TXN100172,2026-01-31,06:05,CUST1107,250.81,UPI,Subscription,Hyderabad,Desktop,Fashion,29,Successful,0
+TXN100173,2026-01-31,00:07,CUST1024,167.32,Net Banking,Bill Payment,Bengaluru,Desktop,Entertainment,19,Under Review,1
+TXN100174,2026-02-01,00:22,CUST1200,89.74,Credit Card,Online Purchase,Hyderabad,Mobile,Food,60,Successful,0
+TXN100175,2026-02-01,19:46,CUST1108,247.5,UPI,Online Purchase,Hyderabad,Desktop,Entertainment,31,Successful,0
+TXN100176,2026-02-01,12:25,CUST1033,45.5,Debit Card,Money Transfer,Bengaluru,Mobile,Grocery,39,Successful,0
+TXN100177,2026-02-01,08:45,CUST1023,47.64,Debit Card,Money Transfer,Coimbatore,Desktop,Utilities,48,Successful,0
+TXN100178,2026-02-01,02:42,CUST1077,498.92,UPI,Bill Payment,Pune,Mobile,Fashion,40,Successful,0
+TXN100179,2026-02-02,06:11,CUST1054,31.12,UPI,Online Purchase,Bengaluru,Mobile,Food,65,Successful,0
+TXN100180,2026-02-02,05:25,CUST1053,131.69,UPI,Bill Payment,Kochi,Desktop,Utilities,37,Failed,0
+TXN100181,2026-02-02,07:12,CUST1049,63.49,Debit Card,Online Purchase,Bengaluru,Mobile,Utilities,55,Successful,0
+TXN100182,2026-02-02,08:39,CUST1078,121.21,Debit Card,Money Transfer,Delhi,Desktop,Entertainment,21,Successful,0
+TXN100183,2026-02-02,04:17,CUST1080,218.01,Credit Card,Money Transfer,Bengaluru,Mobile,Travel,32,Under Review,1
+TXN100184,2026-02-02,00:24,CUST1177,485.2,Net Banking,Bill Payment,Coimbatore,Mobile,Grocery,41,Successful,0
+TXN100185,2026-02-03,18:32,CUST1102,612.55,Net Banking,Online Purchase,Delhi,Mobile,Grocery,42,Successful,0
+TXN100186,2026-02-03,09:46,CUST1122,72.32,Debit Card,Subscription,Kochi,Mobile,Grocery,18,Successful,0
+TXN100187,2026-02-03,11:39,CUST1188,113.75,Net Banking,Bill Payment,Chennai,Mobile,Fashion,24,Successful,0
+TXN100188,2026-02-03,23:59,CUST1103,10431.13,UPI,Money Transfer,Chennai,Mobile,Electronics,48,Successful,0
+TXN100189,2026-02-03,14:42,CUST1090,141.17,UPI,Online Purchase,Hyderabad,Mobile,Fashion,29,Successful,0
+TXN100190,2026-02-04,21:11,CUST1090,75.02,UPI,Bill Payment,Pune,Mobile,Food,59,Successful,0
+TXN100191,2026-02-04,23:43,CUST1193,88.61,UPI,Online Purchase,Hyderabad,Tablet,Utilities,22,Successful,0
+TXN100192,2026-02-04,08:35,CUST1160,142.0,Credit Card,Bill Payment,Coimbatore,Tablet,Utilities,61,Successful,0
+TXN100193,2026-02-04,19:47,CUST1121,122.4,Wallet,Subscription,Mumbai,Mobile,Electronics,59,Successful,0
+TXN100194,2026-02-04,16:03,CUST1149,143.4,UPI,Bill Payment,Kochi,Desktop,Food,55,Successful,0
+TXN100195,2026-02-04,16:04,CUST1146,177.43,UPI,Online Purchase,Pune,Mobile,Electronics,29,Successful,0
+TXN100196,2026-02-05,19:55,CUST1060,176.2,Credit Card,Online Purchase,Kochi,Mobile,Utilities,56,Successful,0
+TXN100197,2026-02-05,11:36,CUST1122,69.72,Wallet,Bill Payment,Chennai,Desktop,Entertainment,35,Successful,0
+TXN100198,2026-02-05,06:07,CUST1141,262.26,UPI,Online Purchase,Hyderabad,Tablet,Fashion,19,Successful,0
+TXN100199,2026-02-05,01:41,CUST1152,204.6,Credit Card,Online Purchase,Kochi,Mobile,Grocery,27,Successful,0
+TXN100200,2026-02-05,02:48,CUST1030,297.85,UPI,ATM,Chennai,Desktop,Utilities,32,Successful,1
+TXN100201,2026-02-06,16:27,CUST1130,32.64,UPI,Bill Payment,Coimbatore,Mobile,Travel,47,Successful,0
+TXN100202,2026-02-06,04:30,CUST1083,212.05,Wallet,Online Purchase,Coimbatore,Tablet,Grocery,61,Blocked,1
+TXN100203,2026-02-06,16:57,CUST1111,24.89,Wallet,Subscription,Mumbai,Mobile,Utilities,34,Successful,0
+TXN100204,2026-02-06,23:08,CUST1108,152.08,UPI,Online Purchase,Kochi,Mobile,Fashion,21,Successful,0
+TXN100205,2026-02-06,16:53,CUST1111,350.0,Wallet,Subscription,,Mobile,Electronics,24,Successful,0
+TXN100206,2026-02-06,16:50,CUST1025,515.83,Debit Card,Online Purchase,Delhi,Mobile,Entertainment,58,Successful,0
+TXN100207,2026-02-07,01:28,CUST1050,253.27,Net Banking,Subscription,Pune,Mobile,Entertainment,48,Blocked,1
+TXN100208,2026-02-07,01:13,CUST1014,356.16,Credit Card,Money Transfer,Kochi,Tablet,Grocery,56,Under Review,1
+TXN100209,2026-02-07,21:39,CUST1134,134.42,Credit Card,ATM,Coimbatore,Mobile,Fashion,51,Successful,0
+TXN100210,2026-02-07,22:40,CUST1076,108.94,Credit Card,Subscription,Hyderabad,Mobile,Entertainment,23,Successful,0
+TXN100211,2026-02-07,04:21,CUST1084,2677.82,Debit Card,Online Purchase,Chennai,Mobile,Entertainment,55,Successful,0
+TXN100212,2026-02-08,00:10,CUST1087,414.54,UPI,Subscription,Bengaluru,Mobile,Food,62,Successful,0
+TXN100213,2026-02-08,00:22,CUST1158,56.09,UPI,Bill Payment,Mumbai,Mobile,Travel,51,Successful,0
+TXN100214,2026-02-08,18:00,CUST1030,31.99,UPI,Bill Payment,Bengaluru,Mobile,Grocery,61,Successful,0
+TXN100215,2026-02-08,01:45,CUST1166,113.86,Debit Card,Bill Payment,Kochi,Mobile,Electronics,32,Successful,0
+TXN100216,2026-02-08,20:36,CUST1058,596.97,UPI,Money Transfer,Hyderabad,Mobile,Entertainment,31,Successful,0
+TXN100217,2026-02-08,11:20,CUST1094,190.33,Debit Card,Online Purchase,Mumbai,Mobile,Food,23,Successful,0
+TXN100218,2026-02-09,05:25,CUST1041,20.0,Wallet,Money Transfer,Bengaluru,Desktop,Fashion,54,Blocked,1
+TXN100219,2026-02-09,22:45,CUST1094,151.82,UPI,Money Transfer,Pune,Desktop,Entertainment,49,Successful,0
+TXN100220,2026-02-09,03:35,CUST1057,180.84,Debit Card,ATM,Hyderabad,Mobile,Travel,20,Successful,0
+TXN100221,2026-02-09,22:53,CUST1164,20.0,Credit Card,ATM,Chennai,Mobile,Electronics,20,Successful,0
+TXN100222,2026-02-09,10:22,CUST1064,185.71,Net Banking,Bill Payment,Pune,Mobile,Fashion,39,Failed,0
+TXN100223,2026-02-10,23:56,CUST1098,65.8,UPI,Online Purchase,Hyderabad,Mobile,Fashion,39,Successful,0
+TXN100224,2026-02-10,16:00,CUST1016,28.92,Debit Card,Online Purchase,Delhi,Mobile,Grocery,27,Failed,0
+TXN100225,2026-02-10,05:53,CUST1088,901.9,Net Banking,Online Purchase,Mumbai,Mobile,Entertainment,20,Successful,0
+TXN100226,2026-02-10,23:54,CUST1078,62.95,Wallet,Online Purchase,Coimbatore,Mobile,Grocery,29,Successful,0
+TXN100227,2026-02-10,04:50,CUST1090,93.01,Debit Card,Bill Payment,Chennai,Mobile,Electronics,46,Successful,0
+TXN100228,2026-02-10,19:39,CUST1072,91.78,Credit Card,Online Purchase,Kochi,Mobile,Entertainment,65,Successful,0
+TXN100229,2026-02-11,01:14,CUST1014,181.68,Debit Card,Subscription,Pune,Desktop,Utilities,34,Under Review,1
+TXN100230,2026-02-11,05:20,CUST1031,1060.3,Net Banking,Money Transfer,Pune,Tablet,Entertainment,24,Successful,0
+TXN100231,2026-02-11,21:46,CUST1066,54.81,Credit Card,Bill Payment,Bengaluru,Mobile,Utilities,30,Successful,0
+TXN100232,2026-02-11,10:08,CUST1112,133.38,UPI,Money Transfer,Mumbai,Mobile,Fashion,19,Failed,0
+TXN100233,2026-02-11,15:52,CUST1068,204.56,Wallet,Online Purchase,Kochi,Desktop,Grocery,21,Successful,0
+TXN100234,2026-02-11,15:08,CUST1193,76.04,Debit Card,Bill Payment,Coimbatore,Tablet,Travel,27,Successful,0
+TXN100235,2026-02-12,00:09,CUST1055,131.25,Debit Card,Money Transfer,Hyderabad,Mobile,Entertainment,56,Blocked,1
+TXN100236,2026-02-12,08:51,CUST1123,328.49,UPI,Bill Payment,Coimbatore,Mobile,Travel,41,Under Review,1
+TXN100237,2026-02-12,05:56,CUST1168,85.14,Debit Card,Bill Payment,Mumbai,Mobile,Entertainment,34,Successful,0
+TXN100238,2026-02-12,15:52,CUST1153,129.2,UPI,Subscription,Mumbai,Mobile,Fashion,23,Successful,0
+TXN100239,2026-02-12,02:25,CUST1025,117.76,Debit Card,Subscription,Delhi,Mobile,Grocery,36,Successful,0
+TXN100240,2026-02-13,19:40,CUST1131,163.4,UPI,Money Transfer,Delhi,Mobile,Electronics,22,Successful,0
+TXN100241,2026-02-13,03:34,CUST1069,231.17,Debit Card,Money Transfer,Coimbatore,Mobile,Electronics,49,Under Review,1
+TXN100242,2026-02-13,18:51,CUST1102,325.89,Wallet,Money Transfer,Hyderabad,Mobile,Electronics,27,Failed,0
+TXN100243,2026-02-13,02:24,CUST1118,1258.35,UPI,Online Purchase,Coimbatore,Desktop,Entertainment,26,Under Review,1
+TXN100244,2026-02-13,18:25,CUST1026,20.0,Wallet,Bill Payment,Mumbai,Mobile,Entertainment,44,Successful,0
+TXN100245,2026-02-13,19:10,CUST1040,153.33,Credit Card,Online Purchase,Mumbai,Mobile,Travel,30,Successful,0
+TXN100246,2026-02-14,06:37,CUST1038,46.32,Net Banking,Bill Payment,Bengaluru,Mobile,Grocery,36,Successful,0
+TXN100247,2026-02-14,19:01,CUST1166,123.3,Debit Card,Money Transfer,Delhi,Mobile,Entertainment,38,Successful,0
+TXN100248,2026-02-14,08:06,CUST1196,437.41,Credit Card,Online Purchase,Kochi,Tablet,Grocery,41,Successful,0
+TXN100249,2026-02-14,00:17,CUST1007,600.52,Debit Card,Subscription,Kochi,Mobile,Travel,55,Successful,0
+TXN100250,2026-02-14,07:26,CUST1158,629.37,Net Banking,Subscription,Kochi,Mobile,Entertainment,21,Successful,0
+TXN100251,2026-02-15,06:33,CUST1120,623.46,Credit Card,Money Transfer,Bengaluru,Mobile,Electronics,41,Successful,0
+TXN100252,2026-02-15,17:26,CUST1147,152.33,UPI,Money Transfer,Chennai,Mobile,Electronics,52,Successful,0
+TXN100253,2026-02-15,07:16,CUST1035,734.02,Debit Card,ATM,Kochi,Desktop,Fashion,20,Successful,0
+TXN100254,2026-02-15,00:42,CUST1161,895.02,Net Banking,Online Purchase,Mumbai,Mobile,Utilities,21,Successful,0
+TXN100255,2026-02-15,10:58,CUST1161,208.26,Debit Card,ATM,Bengaluru,Mobile,Food,54,Successful,0
+TXN100256,2026-02-15,17:43,CUST1078,588.3,Debit Card,Online Purchase,Coimbatore,Mobile,Utilities,57,Successful,0
+TXN100257,2026-02-16,22:58,CUST1038,188.9,Credit Card,ATM,Delhi,Mobile,Entertainment,65,Failed,0
+TXN100258,2026-02-16,09:50,CUST1138,742.66,Net Banking,Online Purchase,Delhi,Desktop,Grocery,52,Successful,0
+TXN100259,2026-02-16,02:53,CUST1185,154.21,UPI,ATM,Hyderabad,Desktop,Entertainment,48,Under Review,1
+TXN100260,2026-02-16,06:23,CUST1028,98.54,Credit Card,Subscription,Coimbatore,Mobile,Grocery,61,Successful,0
+TXN100261,2026-02-16,15:24,CUST1100,59.15,UPI,Online Purchase,Hyderabad,Mobile,Grocery,42,Successful,0
+TXN100262,2026-02-17,15:06,CUST1038,152.38,UPI,Bill Payment,Bengaluru,Desktop,Utilities,57,Successful,0
+TXN100263,2026-02-17,19:51,CUST1144,197.23,UPI,Subscription,Pune,Tablet,Food,30,Successful,0
+TXN100264,2026-02-17,16:05,CUST1124,70.4,UPI,Bill Payment,Kochi,Mobile,Fashion,21,Successful,0
+TXN100265,2026-02-17,01:52,CUST1149,141.16,Debit Card,ATM,Chennai,Mobile,Utilities,63,Successful,0
+TXN100266,2026-02-17,00:23,CUST1092,107.07,UPI,Money Transfer,Coimbatore,Mobile,Food,31,Successful,0
+TXN100267,2026-02-17,15:32,CUST1097,61.75,Credit Card,Bill Payment,Coimbatore,Desktop,Electronics,30,Successful,0
+TXN100268,2026-02-18,11:48,CUST1006,510.75,UPI,Online Purchase,Coimbatore,Mobile,Electronics,44,Successful,0
+TXN100269,2026-02-18,04:28,CUST1169,609.05,UPI,Online Purchase,Hyderabad,Mobile,Grocery,23,Successful,0
+TXN100270,2026-02-18,04:42,CUST1127,508.48,UPI,ATM,Bengaluru,Desktop,Travel,34,Blocked,1
+TXN100271,2026-02-18,22:21,CUST1015,166.64,UPI,Bill Payment,Coimbatore,Mobile,Entertainment,53,Successful,0
+TXN100272,2026-02-18,08:25,CUST1108,177.26,Debit Card,Bill Payment,Pune,Mobile,Entertainment,57,Successful,0
+TXN100273,2026-02-19,08:27,CUST1131,62.6,Debit Card,Bill Payment,Coimbatore,Mobile,Grocery,52,Successful,0
+TXN100274,2026-02-19,02:49,CUST1043,274.41,Debit Card,Money Transfer,Delhi,Mobile,Travel,34,Under Review,1
+TXN100275,2026-02-19,18:20,CUST1047,214.78,Credit Card,ATM,Kochi,Mobile,Food,58,Successful,0
+TXN100276,2026-02-19,15:48,CUST1099,3114.88,UPI,Subscription,Chennai,Mobile,Electronics,19,Successful,0
+TXN100277,2026-02-19,15:06,CUST1014,537.59,Net Banking,Bill Payment,Kochi,Mobile,Entertainment,30,Blocked,1
+TXN100278,2026-02-19,02:16,CUST1194,248.45,Credit Card,ATM,Delhi,Mobile,Utilities,19,Successful,0
+TXN100279,2026-02-20,19:19,CUST1157,173.88,Credit Card,ATM,Delhi,Desktop,Travel,45,Successful,0
+TXN100280,2026-02-20,23:40,CUST1132,493.39,UPI,Money Transfer,Chennai,Desktop,Food,60,Successful,0
+TXN100281,2026-02-20,21:48,CUST1154,72.55,UPI,Subscription,Pune,Mobile,Electronics,43,Successful,0
+TXN100282,2026-02-20,23:19,CUST1115,566.59,UPI,Online Purchase,Bengaluru,Mobile,Utilities,39,Successful,0
+TXN100283,2026-02-20,00:53,CUST1140,61.12,UPI,Online Purchase,Delhi,Mobile,Travel,64,Successful,0
+TXN100284,2026-02-20,23:21,CUST1002,103.39,Debit Card,ATM,Bengaluru,Mobile,Grocery,60,Successful,0
+TXN100285,2026-02-21,19:27,CUST1145,28.84,Credit Card,Bill Payment,Delhi,Mobile,Grocery,20,Successful,0
+TXN100286,2026-02-21,10:39,CUST1035,334.98,Debit Card,ATM,Mumbai,Mobile,Grocery,52,Successful,0
+TXN100287,2026-02-21,16:48,CUST1010,232.74,Debit Card,Subscription,Chennai,Mobile,Entertainment,29,Successful,0
+TXN100288,2026-02-21,07:06,CUST1112,103.39,Net Banking,Online Purchase,Delhi,Mobile,Food,41,Successful,0
+TXN100289,2026-02-21,03:00,CUST1171,71.58,Debit Card,Subscription,Mumbai,Mobile,Grocery,22,Successful,0
+TXN100290,2026-02-22,05:31,CUST1021,719.62,Wallet,Bill Payment,Kochi,Mobile,Entertainment,37,Successful,0
+TXN100291,2026-02-22,07:12,CUST1015,158.6,UPI,Bill Payment,Hyderabad,Mobile,Fashion,56,Successful,0
+TXN100292,2026-02-22,19:29,CUST1163,84.16,UPI,Money Transfer,Mumbai,Mobile,Entertainment,56,Successful,0
+TXN100293,2026-02-22,02:22,CUST1112,1238.84,UPI,Subscription,Coimbatore,Mobile,Electronics,30,Successful,0
+TXN100294,2026-02-22,15:50,CUST1126,93.97,Debit Card,Online Purchase,Delhi,Desktop,Entertainment,58,Successful,0
+TXN100295,2026-02-22,02:58,CUST1085,566.01,Net Banking,Bill Payment,Mumbai,Desktop,Food,62,Successful,0
+TXN100296,2026-02-23,17:55,CUST1085,57.34,UPI,Money Transfer,Bengaluru,Mobile,Utilities,29,Successful,0
+TXN100297,2026-02-23,13:18,CUST1188,127.11,Wallet,Money Transfer,Hyderabad,Mobile,Entertainment,30,Successful,0
+TXN100298,2026-02-23,17:31,CUST1172,299.55,UPI,Money Transfer,Pune,Mobile,Grocery,27,Successful,0
+TXN100299,2026-02-23,01:29,CUST1005,171.09,Wallet,Online Purchase,Delhi,Mobile,Electronics,50,Under Review,1
+TXN100300,2026-02-23,21:28,CUST1117,231.31,UPI,Online Purchase,Coimbatore,Mobile,Travel,57,Successful,0
+TXN100301,2026-02-24,02:48,CUST1146,0.0,UPI,Bill Payment,Pune,Desktop,Grocery,33,Successful,1
+TXN100302,2026-02-24,15:44,CUST1149,0.0,Credit Card,ATM,Mumbai,Mobile,Electronics,62,Successful,0
+TXN100303,2026-02-24,08:28,CUST1072,784.92,UPI,Online Purchase,Pune,Desktop,Fashion,52,Successful,0
+TXN100304,2026-02-24,03:29,CUST1074,112.41,UPI,Online Purchase,Pune,Mobile,Travel,20,Successful,0
+TXN100305,2026-02-24,00:15,CUST1051,242.02,UPI,Subscription,Hyderabad,Mobile,Fashion,22,Successful,0
+TXN100306,2026-02-24,03:39,CUST1169,365.75,Net Banking,Online Purchase,Kochi,Desktop,Utilities,43,Successful,0
+TXN100307,2026-02-25,00:18,CUST1024,246.84,Credit Card,Subscription,Pune,Mobile,Electronics,28,Successful,0
+TXN100308,2026-02-25,13:17,CUST1152,89.25,UPI,Money Transfer,Pune,Mobile,Fashion,24,Successful,0
+TXN100309,2026-02-25,20:00,CUST1038,578.11,Debit Card,ATM,Delhi,Mobile,Utilities,27,Successful,0
+TXN100310,2026-02-25,15:13,CUST1044,302.98,Debit Card,Online Purchase,Kochi,Mobile,Electronics,59,Successful,0
+TXN100311,2026-02-25,19:50,CUST1185,221.14,UPI,Online Purchase,Hyderabad,Tablet,Electronics,51,Successful,0
+TXN100312,2026-02-26,23:46,CUST1187,216.07,Credit Card,Money Transfer,Coimbatore,Mobile,Fashion,20,Successful,0
+TXN100313,2026-02-26,07:49,CUST1162,974.83,UPI,ATM,Mumbai,Tablet,Electronics,25,Successful,0
+TXN100314,2026-02-26,06:01,CUST1075,87.35,UPI,ATM,Hyderabad,Tablet,Grocery,48,Successful,0
+TXN100315,2026-02-26,02:53,CUST1095,274.58,Debit Card,Online Purchase,Hyderabad,Desktop,Electronics,28,Successful,0
+TXN100316,2026-02-26,16:27,CUST1023,106.84,UPI,ATM,Chennai,Mobile,Food,62,Successful,0
+TXN100317,2026-02-26,00:48,CUST1124,26.15,Credit Card,ATM,Hyderabad,Mobile,Utilities,24,Successful,0
+TXN100318,2026-02-27,15:49,CUST1086,25.46,Debit Card,Money Transfer,Kochi,Desktop,Electronics,62,Successful,0
+TXN100319,2026-02-27,11:29,CUST1043,65.72,UPI,ATM,Chennai,Mobile,Food,19,Successful,0
+TXN100320,2026-02-27,18:37,CUST1040,93.84,Credit Card,ATM,Mumbai,Mobile,Electronics,23,Failed,0
+TXN100321,2026-02-27,21:50,CUST1047,1592.32,UPI,Money Transfer,Pune,Mobile,Electronics,58,Successful,0
+TXN100322,2026-02-27,22:03,CUST1169,364.45,Wallet,Online Purchase,Delhi,Mobile,Fashion,49,Successful,0
+TXN100323,2026-02-28,21:00,CUST1175,398.75,Credit Card,Bill Payment,Delhi,Mobile,Grocery,37,Successful,0
+TXN100324,2026-02-28,13:07,CUST1020,95.86,Net Banking,Online Purchase,Mumbai,Mobile,Utilities,51,Successful,0
+TXN100325,2026-02-28,05:28,CUST1109,192.74,Credit Card,Bill Payment,Mumbai,Mobile,Grocery,33,Failed,0
+TXN100326,2026-02-28,05:54,CUST1193,1819.2,UPI,Bill Payment,Kochi,Desktop,Travel,42,Successful,0
+TXN100327,2026-02-28,12:38,CUST1068,53.82,Debit Card,Online Purchase,Bengaluru,Mobile,Fashion,29,Successful,0
+TXN100328,2026-02-28,18:02,CUST1024,286.07,Wallet,Bill Payment,Pune,Tablet,Fashion,24,Successful,0
+TXN100329,2026-03-01,21:31,CUST1036,908.05,Debit Card,Online Purchase,Mumbai,Mobile,Grocery,56,Failed,0
+TXN100330,2026-03-01,07:09,CUST1045,476.25,Net Banking,ATM,Hyderabad,Desktop,Entertainment,34,Successful,0
+TXN100331,2026-03-01,01:09,CUST1130,1098.32,Net Banking,Subscription,Kochi,Mobile,Fashion,62,Successful,0
+TXN100332,2026-03-01,20:18,CUST1028,224.27,UPI,Online Purchase,Delhi,Desktop,Grocery,28,Successful,0
+TXN100333,2026-03-01,00:45,CUST1154,331.44,UPI,Subscription,Coimbatore,Mobile,Fashion,23,Successful,0
+TXN100334,2026-03-02,14:33,CUST1023,202.3,Debit Card,Money Transfer,Kochi,Desktop,Electronics,40,Blocked,1
+TXN100335,2026-03-02,00:59,CUST1164,309.0,Credit Card,Online Purchase,Delhi,Mobile,Grocery,44,Successful,0
+TXN100336,2026-03-02,04:32,CUST1091,72.59,Net Banking,Online Purchase,Chennai,Desktop,Grocery,63,Successful,1
+TXN100337,2026-03-02,15:22,CUST1134,400.35,Net Banking,Bill Payment,Kochi,Tablet,Food,23,Successful,0
+TXN100338,2026-03-02,18:54,CUST1163,243.29,UPI,ATM,Delhi,Mobile,Fashion,55,Successful,0
+TXN100339,2026-03-02,03:27,CUST1103,192.99,UPI,Money Transfer,Bengaluru,Mobile,Fashion,19,Successful,1
+TXN100340,2026-03-03,02:31,CUST1038,1039.39,Debit Card,Online Purchase,Kochi,Desktop,Grocery,39,Blocked,1
+TXN100341,2026-03-03,16:49,CUST1163,139.02,UPI,Online Purchase,Kochi,Mobile,Electronics,37,Successful,0
+TXN100342,2026-03-03,16:06,CUST1094,606.57,Net Banking,Bill Payment,Pune,Desktop,Electronics,42,Successful,0
+TXN100343,2026-03-03,11:28,CUST1053,670.0,Credit Card,Online Purchase,Mumbai,Mobile,Utilities,32,Successful,0
+TXN100344,2026-03-03,13:07,CUST1038,426.47,Debit Card,Online Purchase,Pune,Mobile,Electronics,46,Successful,0
+TXN100345,2026-03-03,20:00,CUST1187,69.05,UPI,Online Purchase,Kochi,Tablet,Fashion,25,Successful,0
+TXN100346,2026-03-04,05:56,CUST1043,259.58,Debit Card,ATM,Mumbai,Mobile,Entertainment,54,Successful,0
+TXN100347,2026-03-04,02:54,CUST1103,1284.95,Credit Card,Subscription,Delhi,Desktop,Food,50,Blocked,1
+TXN100348,2026-03-04,08:02,CUST1114,29.41,Debit Card,Bill Payment,Coimbatore,Mobile,Grocery,39,Successful,0
+TXN100349,2026-03-04,04:23,CUST1004,150.26,UPI,Subscription,Coimbatore,Mobile,Travel,64,Successful,0
+TXN100350,2026-03-04,23:22,CUST1005,579.58,Debit Card,Online Purchase,Kochi,Mobile,Food,22,Successful,0
+TXN100351,2026-03-05,16:58,CUST1068,161.53,Net Banking,Bill Payment,Bengaluru,Mobile,Entertainment,56,Successful,0
+TXN100352,2026-03-05,13:07,CUST1123,407.44,UPI,Online Purchase,Chennai,Mobile,Travel,35,Successful,0
+TXN100353,2026-03-05,20:53,CUST1173,741.88,UPI,Money Transfer,Delhi,Mobile,Food,55,Successful,0
+TXN100354,2026-03-05,02:56,CUST1080,228.61,UPI,Subscription,Mumbai,Mobile,Electronics,54,Successful,0
+TXN100355,2026-03-05,00:46,CUST1153,301.57,Debit Card,Money Transfer,Kochi,Mobile,Fashion,47,Blocked,1
+TXN100356,2026-03-05,19:36,CUST1011,198.71,Debit Card,Bill Payment,Delhi,Desktop,Entertainment,48,Successful,0
+TXN100357,2026-03-06,20:02,CUST1157,244.16,Credit Card,Money Transfer,Kochi,Mobile,Travel,27,Successful,0
+TXN100358,2026-03-06,22:50,CUST1162,1484.16,UPI,Online Purchase,Bengaluru,Mobile,Entertainment,32,Successful,0
+TXN100359,2026-03-06,00:32,CUST1142,170.04,UPI,Subscription,Hyderabad,Mobile,Food,59,Blocked,1
+TXN100360,2026-03-06,02:27,CUST1120,127.34,Debit Card,Bill Payment,Hyderabad,Mobile,Fashion,65,Successful,0
+TXN100361,2026-03-06,17:46,CUST1152,513.76,Credit Card,Bill Payment,Bengaluru,Desktop,Entertainment,61,Successful,0
+TXN100362,2026-03-07,09:07,CUST1187,78.03,Wallet,Money Transfer,Mumbai,Mobile,Travel,35,Successful,0
+TXN100363,2026-03-07,21:33,CUST1167,98.03,UPI,Money Transfer,Pune,Mobile,Grocery,40,Successful,0
+TXN100364,2026-03-07,02:34,CUST1026,98.66,Debit Card,Online Purchase,Bengaluru,Mobile,Food,50,Successful,0
+TXN100365,2026-03-07,07:31,CUST1171,140.35,Credit Card,Money Transfer,Kochi,Mobile,Grocery,33,Successful,0
+TXN100366,2026-03-07,13:23,CUST1036,146.61,Credit Card,Online Purchase,Mumbai,Desktop,Electronics,55,Successful,0
+TXN100367,2026-03-07,23:13,CUST1167,364.71,Debit Card,Money Transfer,Coimbatore,Mobile,Grocery,52,Successful,0
+TXN100368,2026-03-08,17:31,CUST1189,128.72,Debit Card,ATM,Bengaluru,Desktop,Grocery,51,Successful,0
+TXN100369,2026-03-08,14:55,CUST1144,379.73,Wallet,ATM,Mumbai,Mobile,Utilities,45,Successful,0
+TXN100370,2026-03-08,21:45,CUST1122,430.17,UPI,Money Transfer,Bengaluru,Mobile,Food,19,Successful,0
+TXN100371,2026-03-08,22:42,CUST1059,94.3,UPI,Money Transfer,Bengaluru,Tablet,Electronics,47,Successful,0
+TXN100372,2026-03-08,01:15,CUST1096,421.03,Debit Card,Online Purchase,Pune,Mobile,Grocery,30,Successful,0
+TXN100373,2026-03-09,09:03,CUST1006,461.01,Credit Card,ATM,Pune,Mobile,Fashion,58,Successful,0
+TXN100374,2026-03-09,01:51,CUST1098,31.16,UPI,Online Purchase,Kochi,Mobile,Travel,33,Successful,0
+TXN100375,2026-03-09,16:36,CUST1056,243.1,UPI,Bill Payment,Mumbai,Mobile,Grocery,22,Successful,0
+TXN100376,2026-03-09,07:53,CUST1136,109.24,UPI,Online Purchase,Mumbai,Mobile,Electronics,45,Successful,0
+TXN100377,2026-03-09,00:20,CUST1094,667.18,Net Banking,Online Purchase,Chennai,Mobile,Grocery,56,Successful,0
+TXN100378,2026-03-09,08:13,CUST1027,108.14,UPI,Money Transfer,Bengaluru,Mobile,Travel,62,Successful,0
+TXN100379,2026-03-10,10:30,CUST1199,47.49,UPI,Online Purchase,Hyderabad,Mobile,Electronics,37,Successful,0
+TXN100380,2026-03-10,21:54,CUST1155,175.95,UPI,ATM,Bengaluru,Mobile,Food,41,Successful,0
+TXN100381,2026-03-10,15:47,CUST1120,73.92,UPI,Online Purchase,Bengaluru,Mobile,Electronics,44,Successful,0
+TXN100382,2026-03-10,06:17,CUST1174,423.94,UPI,Online Purchase,Mumbai,Mobile,Food,47,Successful,0
+TXN100383,2026-03-10,09:06,CUST1169,80.75,Credit Card,Bill Payment,Bengaluru,Mobile,Electronics,62,Successful,0
+TXN100384,2026-03-11,22:09,CUST1025,178.13,UPI,Online Purchase,Delhi,Tablet,Entertainment,44,Successful,0
+TXN100385,2026-03-11,02:06,CUST1086,850.49,Net Banking,Online Purchase,Bengaluru,Mobile,Travel,43,Successful,0
+TXN100386,2026-03-11,17:32,CUST1146,543.77,UPI,Money Transfer,Delhi,Desktop,Travel,24,Successful,0
+TXN100387,2026-03-11,23:22,CUST1012,292.32,Credit Card,Online Purchase,Pune,Mobile,Electronics,59,Successful,0
+TXN100388,2026-03-11,12:20,CUST1087,159.56,Net Banking,ATM,Hyderabad,Mobile,Entertainment,64,Successful,0
+TXN100389,2026-03-11,06:18,CUST1179,265.84,Debit Card,Online Purchase,Kochi,Mobile,Grocery,55,Successful,0
+TXN100390,2026-03-12,03:47,CUST1109,361.04,Credit Card,Online Purchase,Mumbai,Mobile,Travel,22,Under Review,1
+TXN100391,2026-03-12,12:18,CUST1167,67.59,UPI,ATM,Bengaluru,Mobile,Food,40,Successful,0
+TXN100392,2026-03-12,19:35,CUST1089,424.68,UPI,Online Purchase,Delhi,Mobile,Food,45,Successful,0
+TXN100393,2026-03-12,00:28,CUST1010,60.24,Debit Card,Online Purchase,Delhi,Mobile,Fashion,51,Successful,0
+TXN100394,2026-03-12,07:59,CUST1074,321.32,Wallet,Bill Payment,Pune,Desktop,Utilities,32,Successful,0
+TXN100395,2026-03-12,13:17,CUST1077,59.93,Debit Card,Online Purchase,Delhi,Mobile,Entertainment,49,Successful,0
+TXN100396,2026-03-13,15:01,CUST1054,1290.51,Credit Card,ATM,Kochi,Mobile,Utilities,43,Successful,0
+TXN100397,2026-03-13,13:00,CUST1157,388.91,Debit Card,Online Purchase,Coimbatore,Mobile,Utilities,65,Successful,0
+TXN100398,2026-03-13,11:46,CUST1102,38.24,Credit Card,ATM,Chennai,Mobile,Food,48,Successful,0
+TXN100399,2026-03-13,18:04,CUST1169,181.1,UPI,Subscription,Kochi,Mobile,Fashion,36,Successful,0
+TXN100400,2026-03-13,22:19,CUST1137,107.62,Credit Card,Bill Payment,Hyderabad,Mobile,Utilities,26,Successful,0
+TXN100401,2026-03-14,14:10,CUST1191,95.61,Wallet,Subscription,Kochi,Desktop,Utilities,46,Successful,0
+TXN100402,2026-03-14,01:41,CUST1165,210.0,UPI,Bill Payment,Pune,Desktop,Electronics,56,Successful,1
+TXN100403,2026-03-14,01:01,CUST1142,71.67,Debit Card,Subscription,Pune,Mobile,Electronics,21,Successful,0
+TXN100404,2026-03-14,22:02,CUST1101,388.18,UPI,Online Purchase,Kochi,Mobile,Electronics,20,Successful,0
+TXN100405,2026-03-14,21:22,CUST1073,366.74,Credit Card,Money Transfer,Bengaluru,Tablet,Grocery,46,Successful,0
+TXN100406,2026-03-14,18:54,CUST1072,257.6,UPI,Bill Payment,Coimbatore,Mobile,Utilities,28,Successful,0
+TXN100407,2026-03-15,21:11,CUST1167,177.77,Credit Card,Bill Payment,Bengaluru,Mobile,Grocery,50,Successful,0
+TXN100408,2026-03-15,21:19,CUST1168,350.66,Debit Card,Money Transfer,Bengaluru,Mobile,Fashion,55,Successful,0
+TXN100409,2026-03-15,16:04,CUST1054,399.97,UPI,Money Transfer,Kochi,Mobile,Entertainment,28,Successful,0
+TXN100410,2026-03-15,19:36,CUST1003,285.69,Debit Card,Online Purchase,Mumbai,Mobile,Food,44,Successful,0
+TXN100411,2026-03-15,09:37,CUST1183,48.82,Debit Card,Online Purchase,Mumbai,Mobile,Utilities,50,Successful,0
+TXN100412,2026-03-16,05:29,CUST1111,82.4,Wallet,Money Transfer,Mumbai,Mobile,Food,38,Failed,0
+TXN100413,2026-03-16,14:08,CUST1161,138.65,UPI,Money Transfer,Coimbatore,Mobile,Entertainment,56,Blocked,1
+TXN100414,2026-03-16,21:33,CUST1096,41.44,UPI,Subscription,Bengaluru,Desktop,Electronics,48,Successful,0
+TXN100415,2026-03-16,10:52,CUST1071,226.79,UPI,ATM,Chennai,Mobile,Utilities,55,Successful,0
+TXN100416,2026-03-16,04:43,CUST1019,743.23,Wallet,Subscription,Hyderabad,Mobile,Travel,63,Under Review,1
+TXN100417,2026-03-16,00:34,CUST1034,633.77,Wallet,Money Transfer,Mumbai,Mobile,Grocery,19,Successful,0
+TXN100418,2026-03-17,07:51,CUST1050,379.79,Credit Card,Online Purchase,Mumbai,Mobile,Grocery,44,Successful,0
+TXN100419,2026-03-17,20:57,CUST1175,375.29,Net Banking,Online Purchase,Pune,Mobile,Utilities,53,Successful,0
+TXN100420,2026-03-17,11:21,CUST1046,1661.2,Credit Card,ATM,Bengaluru,Mobile,Entertainment,28,Successful,0
+TXN100421,2026-03-17,11:43,CUST1184,421.52,Debit Card,Money Transfer,Bengaluru,Desktop,Electronics,64,Successful,0
+TXN100422,2026-03-17,04:23,CUST1185,457.44,UPI,Online Purchase,Coimbatore,Desktop,Grocery,35,Under Review,1
+TXN100423,2026-03-18,06:16,CUST1083,43.0,Debit Card,Bill Payment,Coimbatore,Mobile,Electronics,18,Successful,0
+TXN100424,2026-03-18,03:09,CUST1051,687.33,UPI,Subscription,Mumbai,Mobile,Fashion,52,Successful,0
+TXN100425,2026-03-18,05:29,CUST1054,270.02,Net Banking,Bill Payment,Bengaluru,Mobile,Food,52,Successful,0
+TXN100426,2026-03-18,12:55,CUST1090,167.37,Debit Card,Bill Payment,Chennai,Desktop,Entertainment,48,Successful,0
+TXN100427,2026-03-18,19:58,CUST1081,130.63,Debit Card,Bill Payment,Hyderabad,Desktop,Travel,45,Failed,0
+TXN100428,2026-03-18,14:45,CUST1118,104.73,UPI,Online Purchase,Kochi,Mobile,Food,56,Successful,0
+TXN100429,2026-03-19,02:22,CUST1156,637.0,UPI,Bill Payment,Bengaluru,Mobile,Food,18,Blocked,1
+TXN100430,2026-03-19,22:31,CUST1019,176.2,UPI,Bill Payment,Pune,Mobile,Fashion,42,Successful,0
+TXN100431,2026-03-19,07:16,CUST1027,108.67,UPI,Online Purchase,Kochi,Mobile,Grocery,60,Successful,0
+TXN100432,2026-03-19,19:49,CUST1176,83.8,UPI,ATM,Bengaluru,Mobile,Travel,55,Successful,0
+TXN100433,2026-03-19,15:50,CUST1147,214.99,Wallet,Bill Payment,Delhi,Mobile,Grocery,37,Successful,0
+TXN100434,2026-03-20,12:16,CUST1179,126.52,Credit Card,ATM,Coimbatore,Mobile,Utilities,20,Successful,0
+TXN100435,2026-03-20,17:13,CUST1007,100.71,UPI,ATM,Pune,Desktop,Food,19,Successful,0
+TXN100436,2026-03-20,09:08,CUST1157,45.51,UPI,Online Purchase,Hyderabad,Tablet,Utilities,35,Successful,0
+TXN100437,2026-03-20,18:39,CUST1171,473.12,Credit Card,Money Transfer,Mumbai,Mobile,Electronics,61,Successful,0
+TXN100438,2026-03-20,16:01,CUST1069,157.9,Debit Card,Bill Payment,Pune,Mobile,Food,27,Successful,0
+TXN100439,2026-03-20,23:44,CUST1094,61.24,Credit Card,Subscription,Bengaluru,Mobile,Grocery,22,Successful,0
+TXN100440,2026-03-21,18:24,CUST1113,138.21,Net Banking,Online Purchase,Mumbai,Mobile,Food,26,Successful,0
+TXN100441,2026-03-21,22:38,CUST1107,313.92,Credit Card,Money Transfer,Bengaluru,Mobile,Electronics,19,Successful,0
+TXN100442,2026-03-21,04:08,CUST1120,186.58,Wallet,Money Transfer,Mumbai,Mobile,Fashion,51,Successful,0
+TXN100443,2026-03-21,20:53,CUST1186,219.42,Net Banking,Online Purchase,Hyderabad,Mobile,Utilities,55,Successful,0
+TXN100444,2026-03-21,22:21,CUST1136,189.15,UPI,Online Purchase,Coimbatore,Mobile,Utilities,48,Successful,0
+TXN100445,2026-03-22,08:42,CUST1170,50.56,Wallet,Money Transfer,Hyderabad,Mobile,Grocery,27,Successful,0
+TXN100446,2026-03-22,11:45,CUST1042,468.02,UPI,Money Transfer,Delhi,Mobile,Food,29,Failed,0
+TXN100447,2026-03-22,20:03,CUST1013,32.84,Net Banking,Online Purchase,Chennai,Mobile,Grocery,53,Successful,0
+TXN100448,2026-03-22,00:25,CUST1154,287.59,UPI,Money Transfer,Coimbatore,Mobile,Fashion,38,Under Review,1
+TXN100449,2026-03-22,00:57,CUST1018,335.48,Net Banking,Bill Payment,Hyderabad,Tablet,Food,64,Under Review,1
+TXN100450,2026-03-22,14:28,CUST1042,145.5,Net Banking,Money Transfer,Delhi,Mobile,Food,23,Successful,0
+TXN100451,2026-03-23,01:44,CUST1051,258.12,Net Banking,Online Purchase,Chennai,Mobile,Grocery,65,Successful,0
+TXN100452,2026-03-23,21:33,CUST1113,137.4,Debit Card,Subscription,Delhi,Desktop,Grocery,20,Successful,0
+TXN100453,2026-03-23,15:22,CUST1144,261.25,UPI,Online Purchase,Bengaluru,Tablet,Electronics,27,Successful,0
+TXN100454,2026-03-23,07:36,CUST1101,489.27,UPI,Bill Payment,Kochi,Mobile,Entertainment,22,Successful,0
+TXN100455,2026-03-23,12:10,CUST1003,82.09,Credit Card,Online Purchase,Bengaluru,Desktop,Entertainment,63,Successful,0
+TXN100456,2026-03-23,20:05,CUST1079,355.66,UPI,Online Purchase,Mumbai,Mobile,Fashion,43,Successful,0
+TXN100457,2026-03-24,00:17,CUST1098,984.76,Debit Card,Bill Payment,Coimbatore,Mobile,Entertainment,38,Successful,0
+TXN100458,2026-03-24,15:20,CUST1173,236.17,UPI,Online Purchase,Bengaluru,Mobile,Electronics,62,Successful,0
+TXN100459,2026-03-24,06:41,CUST1150,109.61,Wallet,ATM,Pune,Mobile,Utilities,43,Successful,0
+TXN100460,2026-03-24,04:35,CUST1023,1742.77,Debit Card,Online Purchase,Delhi,Mobile,Food,55,Successful,0
+TXN100461,2026-03-24,21:40,CUST1059,198.09,Net Banking,Bill Payment,Coimbatore,Mobile,Grocery,61,Successful,0
+TXN100462,2026-03-25,22:37,CUST1190,228.5,UPI,Online Purchase,Kochi,Mobile,Food,43,Successful,0
+TXN100463,2026-03-25,02:33,CUST1113,233.31,Net Banking,Online Purchase,Pune,Mobile,Food,25,Successful,0
+TXN100464,2026-03-25,11:16,CUST1068,283.68,Wallet,Online Purchase,Bengaluru,Mobile,Travel,22,Blocked,1
+TXN100465,2026-03-25,15:36,CUST1054,129.17,Credit Card,Bill Payment,Mumbai,Mobile,Utilities,32,Successful,0
+TXN100466,2026-03-25,18:24,CUST1057,219.2,Debit Card,Bill Payment,Hyderabad,Mobile,Travel,33,Successful,0
+TXN100467,2026-03-25,04:37,CUST1151,469.74,Debit Card,Bill Payment,Mumbai,Mobile,Entertainment,18,Successful,0
+TXN100468,2026-03-26,21:57,CUST1111,124.79,UPI,Money Transfer,Pune,Desktop,Food,33,Successful,0
+TXN100469,2026-03-26,13:11,CUST1060,119.11,Credit Card,Money Transfer,Chennai,Desktop,Grocery,54,Successful,0
+TXN100470,2026-03-26,04:22,CUST1073,135.36,UPI,Online Purchase,Bengaluru,Mobile,Food,20,Successful,0
+TXN100471,2026-03-26,14:52,CUST1055,60.47,UPI,Bill Payment,Pune,Desktop,Utilities,64,Successful,0
+TXN100472,2026-03-26,16:41,CUST1117,91.58,UPI,Subscription,Chennai,Mobile,Travel,48,Successful,0
+TXN100473,2026-03-27,13:21,CUST1063,87.92,UPI,Bill Payment,Chennai,Mobile,Grocery,30,Successful,0
+TXN100474,2026-03-27,19:20,CUST1184,181.18,UPI,Money Transfer,Delhi,Mobile,Food,33,Successful,0
+TXN100475,2026-03-27,04:26,CUST1055,418.28,UPI,Online Purchase,Coimbatore,Mobile,Fashion,60,Under Review,1
+TXN100476,2026-03-27,11:56,CUST1025,775.66,Wallet,ATM,Delhi,Mobile,Utilities,38,Successful,0
+TXN100477,2026-03-27,15:30,CUST1026,191.94,Credit Card,ATM,Bengaluru,Mobile,Utilities,19,Successful,0
+TXN100478,2026-03-27,15:05,CUST1177,286.14,Wallet,Money Transfer,Chennai,Desktop,Fashion,44,Successful,1
+TXN100479,2026-03-28,20:26,CUST1063,231.23,Credit Card,Subscription,Kochi,Mobile,Food,55,Successful,0
+TXN100480,2026-03-28,06:39,CUST1173,22.34,UPI,Online Purchase,Pune,Mobile,Utilities,43,Successful,0
+TXN100481,2026-03-28,03:33,CUST1073,57.52,Credit Card,Online Purchase,Hyderabad,Tablet,Grocery,55,Successful,0
+TXN100482,2026-03-28,00:11,CUST1079,388.1,Credit Card,ATM,Chennai,Mobile,Food,63,Successful,0
+TXN100483,2026-03-28,04:44,CUST1167,427.73,UPI,ATM,Pune,Mobile,Food,42,Failed,0
+TXN100484,2026-03-29,22:56,CUST1065,418.05,Debit Card,Online Purchase,Kochi,Mobile,Travel,28,Successful,0
+TXN100485,2026-03-29,09:52,CUST1069,151.74,UPI,Online Purchase,Hyderabad,Mobile,Utilities,25,Successful,0
+TXN100486,2026-03-29,21:06,CUST1184,24.66,Debit Card,Online Purchase,Delhi,Mobile,Utilities,25,Successful,0
+TXN100487,2026-03-29,04:09,CUST1009,64.81,Debit Card,Online Purchase,Delhi,Mobile,Fashion,50,Successful,0
+TXN100488,2026-03-29,03:44,CUST1198,75.53,UPI,ATM,Coimbatore,Mobile,Travel,24,Successful,0
+TXN100489,2026-03-29,01:16,CUST1156,339.94,UPI,Bill Payment,Pune,Mobile,Entertainment,55,Successful,0
+TXN100490,2026-03-30,19:25,CUST1173,126.8,Debit Card,Bill Payment,Chennai,Mobile,Travel,38,Successful,0
+TXN100491,2026-03-30,09:20,CUST1026,982.79,,Bill Payment,Mumbai,Mobile,Utilities,25,Successful,0
+TXN100492,2026-03-30,18:27,CUST1028,786.54,UPI,Online Purchase,Delhi,Mobile,Food,38,Successful,0
+TXN100493,2026-03-30,00:57,CUST1040,966.52,Wallet,Online Purchase,Delhi,Desktop,Travel,37,Blocked,1
+TXN100494,2026-03-30,23:45,CUST1143,72.49,UPI,Money Transfer,Coimbatore,Mobile,Fashion,25,Successful,0
+TXN100495,2026-03-31,04:01,CUST1134,296.16,Debit Card,Subscription,Hyderabad,Mobile,Travel,63,Successful,0
+TXN100496,2026-03-31,12:59,CUST1027,112.45,Wallet,ATM,Coimbatore,Mobile,Fashion,48,Successful,0
+TXN100497,2026-03-31,03:53,CUST1038,251.61,UPI,Online Purchase,Kochi,Mobile,Entertainment,46,Successful,0
+TXN100498,2026-03-31,15:42,CUST1196,80.99,UPI,Subscription,Chennai,Mobile,Travel,65,Successful,0
+TXN100499,2026-03-31,23:00,CUST1085,617.79,UPI,ATM,Pune,Mobile,Fashion,26,Successful,0
+TXN100500,2026-03-31,15:50,CUST1064,82.52,UPI,ATM,Bengaluru,Desktop,Travel,32,Under Review,1
+TXN100501,2026-04-01,22:52,CUST1030,25.86,UPI,Bill Payment,Bengaluru,Desktop,Entertainment,47,Successful,0
+TXN100502,2026-04-01,01:35,CUST1099,1385.45,Debit Card,Bill Payment,Pune,Mobile,Travel,43,Successful,0
+TXN100503,2026-04-01,16:50,CUST1131,282.17,UPI,Online Purchase,Hyderabad,Desktop,Grocery,27,Successful,0
+TXN100504,2026-04-01,19:25,CUST1190,62.23,Credit Card,Online Purchase,Kochi,Mobile,Fashion,46,Failed,0
+TXN100505,2026-04-01,23:28,CUST1012,154.12,Wallet,Online Purchase,Delhi,Mobile,Entertainment,33,Successful,1
+TXN100506,2026-04-01,11:20,CUST1091,101.81,Net Banking,Online Purchase,Hyderabad,Mobile,Fashion,53,Successful,0
+TXN100507,2026-04-02,17:10,CUST1030,182.32,Debit Card,Bill Payment,Delhi,Mobile,Fashion,37,Successful,0
+TXN100508,2026-04-02,02:39,CUST1038,404.55,UPI,ATM,Delhi,Mobile,Electronics,62,Successful,0
+TXN100509,2026-04-02,00:10,CUST1085,345.77,Debit Card,Bill Payment,Bengaluru,Mobile,Entertainment,54,Successful,0
+TXN100510,2026-04-02,00:35,CUST1060,233.63,Credit Card,Online Purchase,Hyderabad,Mobile,Travel,39,Successful,0
+TXN100511,2026-04-02,18:48,CUST1038,182.23,Credit Card,Subscription,Kochi,Desktop,Fashion,24,Successful,0
+TXN100512,2026-04-03,10:58,CUST1104,533.08,UPI,Subscription,Coimbatore,Mobile,Utilities,40,Successful,0
+TXN100513,2026-04-03,04:38,CUST1143,26.43,Net Banking,ATM,Delhi,Mobile,Electronics,58,Successful,1
+TXN100514,2026-04-03,11:39,CUST1146,85.72,Credit Card,Subscription,Mumbai,Mobile,Grocery,57,Successful,0
+TXN100515,2026-04-03,02:34,CUST1180,68.12,UPI,Money Transfer,Mumbai,Desktop,Fashion,46,Successful,0
+TXN100516,2026-04-03,00:53,CUST1029,495.84,UPI,Subscription,Coimbatore,Mobile,Fashion,33,Successful,0
+TXN100517,2026-04-03,00:33,CUST1112,86.57,Credit Card,Online Purchase,Mumbai,Mobile,Electronics,55,Successful,0
+TXN100518,2026-04-04,07:54,CUST1188,50.1,Net Banking,Bill Payment,Chennai,Mobile,Travel,45,Successful,0
+TXN100519,2026-04-04,09:46,CUST1021,313.98,Debit Card,Online Purchase,Delhi,Mobile,Utilities,65,Successful,0
+TXN100520,2026-04-04,10:23,CUST1145,73.06,Debit Card,Online Purchase,Coimbatore,Desktop,Grocery,55,Successful,0
+TXN100521,2026-04-04,11:53,CUST1146,127.65,UPI,Online Purchase,Hyderabad,Mobile,Fashion,48,Successful,0
+TXN100522,2026-04-04,12:21,CUST1185,1960.87,Credit Card,Money Transfer,Delhi,Mobile,Travel,31,Successful,0
+TXN100523,2026-04-05,11:04,CUST1119,398.27,Credit Card,ATM,Coimbatore,Tablet,Entertainment,50,Successful,0
+TXN100524,2026-04-05,13:55,CUST1165,146.78,UPI,Money Transfer,Bengaluru,Mobile,Utilities,26,Successful,0
+TXN100525,2026-04-05,01:32,CUST1060,160.59,UPI,Online Purchase,Kochi,Mobile,Entertainment,44,Successful,0
+TXN100526,2026-04-05,18:57,CUST1166,449.21,Debit Card,ATM,Hyderabad,Mobile,Utilities,41,Successful,0
+TXN100527,2026-04-05,17:35,CUST1140,351.73,UPI,Money Transfer,Kochi,Tablet,Grocery,30,Successful,0
+TXN100528,2026-04-05,02:46,CUST1113,195.51,Credit Card,Bill Payment,Bengaluru,Mobile,Food,43,Successful,0
+TXN100529,2026-04-06,22:19,CUST1129,201.05,UPI,Money Transfer,Delhi,Mobile,Utilities,46,Successful,0
+TXN100530,2026-04-06,16:18,CUST1058,41.27,UPI,Online Purchase,Hyderabad,Mobile,Food,60,Successful,0
+TXN100531,2026-04-06,07:34,CUST1003,33.45,UPI,Bill Payment,Kochi,Mobile,Entertainment,45,Successful,0
+TXN100532,2026-04-06,09:51,CUST1191,151.89,Wallet,Subscription,Mumbai,Mobile,Utilities,45,Successful,0
+TXN100533,2026-04-06,01:42,CUST1149,96.23,Net Banking,Online Purchase,Kochi,Mobile,Grocery,25,Successful,0
+TXN100534,2026-04-07,18:16,CUST1023,325.73,Wallet,Bill Payment,Coimbatore,Tablet,Electronics,40,Successful,0
+TXN100535,2026-04-07,08:58,CUST1137,220.78,Credit Card,Subscription,Delhi,Mobile,Grocery,46,Successful,0
+TXN100536,2026-04-07,06:44,CUST1083,83.7,UPI,Money Transfer,Chennai,Mobile,Grocery,22,Successful,0
+TXN100537,2026-04-07,03:42,CUST1055,213.41,Credit Card,Online Purchase,Kochi,Mobile,Electronics,59,Successful,0
+TXN100538,2026-04-07,20:33,CUST1110,119.32,Credit Card,Online Purchase,Hyderabad,Mobile,Electronics,24,Successful,0
+TXN100539,2026-04-07,17:08,CUST1116,1431.68,Net Banking,Online Purchase,Hyderabad,Desktop,Travel,59,Successful,0
+TXN100540,2026-04-08,12:25,CUST1147,266.73,UPI,Money Transfer,Pune,Mobile,Utilities,53,Successful,0
+TXN100541,2026-04-08,10:01,CUST1062,38.07,Credit Card,Bill Payment,Kochi,Mobile,Entertainment,58,Successful,0
+TXN100542,2026-04-08,23:52,CUST1087,1119.36,UPI,Online Purchase,Delhi,Mobile,Travel,44,Successful,0
+TXN100543,2026-04-08,03:08,CUST1167,96.24,UPI,Subscription,Delhi,Mobile,Electronics,63,Successful,0
+TXN100544,2026-04-08,20:08,CUST1100,68.39,Debit Card,Money Transfer,Bengaluru,Mobile,Food,19,Successful,0
+TXN100545,2026-04-09,03:39,CUST1027,1546.4,Credit Card,Online Purchase,Pune,Mobile,Entertainment,42,Under Review,1
+TXN100546,2026-04-09,09:16,CUST1174,256.17,UPI,Bill Payment,Kochi,Desktop,Food,26,Under Review,1
+TXN100547,2026-04-09,04:00,CUST1034,365.32,UPI,Money Transfer,Mumbai,Tablet,Grocery,44,Successful,1
+TXN100548,2026-04-09,08:24,CUST1033,377.31,Credit Card,Online Purchase,Bengaluru,Mobile,Fashion,18,Successful,0
+TXN100549,2026-04-09,23:42,CUST1092,147.53,Debit Card,Online Purchase,Pune,Tablet,Grocery,40,Successful,0
+TXN100550,2026-04-09,02:39,CUST1096,102.27,Net Banking,ATM,Kochi,Mobile,Grocery,27,Successful,0
+TXN100551,2026-04-10,16:41,CUST1178,120.39,Wallet,Bill Payment,Kochi,Mobile,Fashion,59,Successful,0
+TXN100552,2026-04-10,02:24,CUST1148,905.84,Debit Card,Money Transfer,Bengaluru,Mobile,Utilities,42,Successful,1
+TXN100553,2026-04-10,15:38,CUST1168,222.25,UPI,Bill Payment,Mumbai,Mobile,Electronics,20,Failed,0
+TXN100554,2026-04-10,03:34,CUST1095,673.79,Debit Card,Online Purchase,Pune,Mobile,Food,23,Successful,0
+TXN100555,2026-04-10,17:02,CUST1186,167.93,Credit Card,Online Purchase,Kochi,Mobile,Grocery,23,Successful,0
+TXN100556,2026-04-11,16:49,CUST1159,85.17,UPI,Bill Payment,Kochi,Mobile,Fashion,19,Successful,0
+TXN100557,2026-04-11,06:36,CUST1038,42.85,Net Banking,Online Purchase,Pune,Mobile,Travel,35,Successful,0
+TXN100558,2026-04-11,23:43,CUST1173,346.54,UPI,Online Purchase,Chennai,Mobile,Grocery,40,Under Review,1
+TXN100559,2026-04-11,22:43,CUST1041,986.44,Net Banking,ATM,Bengaluru,Desktop,Food,19,Successful,0
+TXN100560,2026-04-11,04:50,CUST1137,74.74,Credit Card,Subscription,Bengaluru,Mobile,Electronics,29,Successful,0
+TXN100561,2026-04-11,11:29,CUST1137,302.89,Debit Card,ATM,Hyderabad,Mobile,Grocery,39,Successful,0
+TXN100562,2026-04-12,16:37,CUST1191,45.8,Debit Card,ATM,Mumbai,Mobile,Grocery,54,Successful,0
+TXN100563,2026-04-12,22:33,CUST1079,103.99,Net Banking,Online Purchase,Coimbatore,Mobile,Utilities,37,Successful,0
+TXN100564,2026-04-12,12:11,CUST1128,236.97,Debit Card,Subscription,Chennai,Desktop,Fashion,56,Successful,0
+TXN100565,2026-04-12,22:18,CUST1022,32.19,Debit Card,Online Purchase,Pune,Mobile,Travel,41,Successful,0
+TXN100566,2026-04-12,02:36,CUST1016,178.03,UPI,Subscription,Pune,Mobile,Travel,65,Successful,0
+TXN100567,2026-04-12,08:43,CUST1032,78.52,Credit Card,Subscription,Pune,Desktop,Entertainment,37,Successful,0
+TXN100568,2026-04-13,16:58,CUST1194,331.88,UPI,Money Transfer,Chennai,Mobile,Electronics,18,Successful,0
+TXN100569,2026-04-13,16:58,CUST1142,153.64,Debit Card,Subscription,Kochi,Mobile,Entertainment,18,Successful,0
+TXN100570,2026-04-13,19:48,CUST1038,463.79,Credit Card,Money Transfer,Pune,Mobile,Food,34,Successful,0
+TXN100571,2026-04-13,15:16,CUST1098,137.06,Debit Card,Online Purchase,Pune,Desktop,Electronics,18,Successful,0
+TXN100572,2026-04-13,21:09,CUST1136,46.41,UPI,Bill Payment,Mumbai,Mobile,Grocery,62,Successful,0
+TXN100573,2026-04-14,12:56,CUST1021,40.98,UPI,Money Transfer,Delhi,Mobile,Grocery,47,Successful,0
+TXN100574,2026-04-14,18:54,CUST1056,26.87,Debit Card,Online Purchase,Delhi,Mobile,Travel,58,Successful,0
+TXN100575,2026-04-14,16:48,CUST1046,341.37,UPI,Money Transfer,Hyderabad,Mobile,Food,64,Successful,0
+TXN100576,2026-04-14,03:46,CUST1043,2339.59,UPI,Subscription,Hyderabad,Mobile,Fashion,20,Successful,0
+TXN100577,2026-04-14,11:11,CUST1120,280.13,UPI,Online Purchase,Pune,Mobile,Food,63,Successful,0
+TXN100578,2026-04-14,08:15,CUST1046,964.92,Wallet,ATM,Mumbai,Mobile,Grocery,28,Successful,0
+TXN100579,2026-04-15,18:23,CUST1048,563.17,Debit Card,Subscription,Pune,Tablet,Fashion,41,Successful,0
+TXN100580,2026-04-15,11:18,CUST1198,107.95,UPI,Subscription,Hyderabad,Desktop,Food,39,Successful,0
+TXN100581,2026-04-15,08:07,CUST1084,642.47,UPI,Subscription,Chennai,Mobile,Food,61,Successful,0
+TXN100582,2026-04-15,06:30,CUST1031,112.33,UPI,Money Transfer,Chennai,Desktop,Fashion,62,Successful,0
+TXN100583,2026-04-15,13:20,CUST1161,114.58,Debit Card,Subscription,Kochi,Mobile,Grocery,43,Successful,0
+TXN100584,2026-04-16,19:16,CUST1172,147.14,Debit Card,ATM,Coimbatore,Mobile,Food,30,Successful,0
+TXN100585,2026-04-16,18:22,CUST1071,154.29,UPI,Online Purchase,Delhi,Mobile,Fashion,18,Successful,0
+TXN100586,2026-04-16,14:36,CUST1008,351.2,UPI,Bill Payment,Mumbai,Desktop,Utilities,41,Successful,0
+TXN100587,2026-04-16,15:53,CUST1130,92.68,UPI,Money Transfer,Bengaluru,Desktop,Utilities,27,Successful,0
+TXN100588,2026-04-16,20:15,CUST1145,441.03,Debit Card,Online Purchase,Delhi,Mobile,Grocery,52,Successful,0
+TXN100589,2026-04-16,04:05,CUST1052,434.74,Debit Card,Money Transfer,Bengaluru,Tablet,Fashion,41,Successful,1
+TXN100590,2026-04-17,02:07,CUST1045,255.43,UPI,Money Transfer,Coimbatore,Mobile,Utilities,45,Under Review,1
+TXN100591,2026-04-17,11:24,CUST1037,1260.94,UPI,Online Purchase,Coimbatore,Desktop,Fashion,53,Successful,0
+TXN100592,2026-04-17,19:17,CUST1170,656.81,UPI,Money Transfer,Pune,Tablet,Food,33,Successful,0
+TXN100593,2026-04-17,20:24,CUST1044,528.33,Wallet,ATM,Hyderabad,Mobile,Grocery,57,Successful,0
+TXN100594,2026-04-17,03:11,CUST1117,193.67,UPI,Bill Payment,Coimbatore,Desktop,Utilities,33,Blocked,1
+TXN100595,2026-04-18,20:14,CUST1038,257.69,Debit Card,Online Purchase,Coimbatore,Mobile,Entertainment,34,Successful,0
+TXN100596,2026-04-18,22:58,CUST1099,306.07,Debit Card,Online Purchase,Bengaluru,Mobile,Food,32,Successful,0
+TXN100597,2026-04-18,15:25,CUST1124,183.69,UPI,Bill Payment,Hyderabad,Mobile,Entertainment,33,Successful,0
+TXN100598,2026-04-18,06:40,CUST1006,124.52,UPI,Subscription,Coimbatore,Mobile,Entertainment,32,Successful,0
+TXN100599,2026-04-18,12:44,CUST1068,20.0,UPI,Online Purchase,Delhi,Tablet,Electronics,51,Successful,0
+TXN100600,2026-04-18,20:25,CUST1179,371.58,Debit Card,Money Transfer,Kochi,Mobile,Electronics,28,Failed,0
+TXN100601,2026-04-19,09:46,CUST1101,513.6,Debit Card,Online Purchase,Coimbatore,Mobile,Grocery,18,Successful,0
+TXN100602,2026-04-19,06:31,CUST1163,56.76,Debit Card,Online Purchase,Kochi,Desktop,Utilities,32,Successful,0
+TXN100603,2026-04-19,13:09,CUST1186,332.01,Credit Card,ATM,Hyderabad,Tablet,Utilities,43,Successful,0
+TXN100604,2026-04-19,04:15,CUST1185,100.33,UPI,Money Transfer,Pune,Mobile,Utilities,21,Blocked,1
+TXN100605,2026-04-19,02:06,CUST1134,125.65,Wallet,Online Purchase,Mumbai,Tablet,Fashion,60,Blocked,1
+TXN100606,2026-04-20,22:16,CUST1013,672.34,Debit Card,Bill Payment,Hyderabad,Mobile,Food,22,Successful,0
+TXN100607,2026-04-20,10:22,CUST1187,67.31,UPI,Online Purchase,Bengaluru,Desktop,Utilities,52,Successful,0
+TXN100608,2026-04-20,10:25,CUST1030,67.21,Wallet,Bill Payment,Mumbai,Mobile,Food,30,Successful,0
+TXN100609,2026-04-20,17:20,CUST1100,1101.95,Debit Card,Money Transfer,Delhi,Mobile,Grocery,27,Successful,0
+TXN100610,2026-04-20,14:21,CUST1002,156.72,Debit Card,Online Purchase,Chennai,Mobile,Entertainment,28,Successful,0
+TXN100611,2026-04-20,11:57,CUST1058,630.52,Debit Card,Online Purchase,Kochi,Mobile,Utilities,35,Successful,0
+TXN100612,2026-04-21,08:06,CUST1036,36.65,Net Banking,Bill Payment,,Mobile,Grocery,51,Successful,0
+TXN100613,2026-04-21,09:13,CUST1072,39.7,Debit Card,Subscription,Kochi,Mobile,Utilities,56,Successful,0
+TXN100614,2026-04-21,11:14,CUST1173,72.75,UPI,Subscription,Hyderabad,Mobile,Electronics,58,Successful,0
+TXN100615,2026-04-21,16:52,CUST1137,112.0,UPI,Online Purchase,Kochi,Desktop,Travel,59,Successful,0
+TXN100616,2026-04-21,05:06,CUST1126,44.55,Wallet,ATM,Pune,Mobile,Grocery,40,Successful,0
+TXN100617,2026-04-21,06:08,CUST1193,262.25,UPI,Bill Payment,Kochi,Mobile,Utilities,24,Successful,0
+TXN100618,2026-04-22,13:50,CUST1077,279.95,UPI,Bill Payment,Bengaluru,Mobile,Travel,56,Successful,0
+TXN100619,2026-04-22,12:47,CUST1050,73.84,Credit Card,ATM,Delhi,Mobile,Grocery,20,Successful,0
+TXN100620,2026-04-22,07:07,CUST1032,79.95,Credit Card,Subscription,Kochi,Desktop,Fashion,29,Successful,0
+TXN100621,2026-04-22,09:49,CUST1098,91.21,Debit Card,Subscription,Kochi,Desktop,Utilities,24,Successful,0
+TXN100622,2026-04-22,08:58,CUST1043,56.55,Wallet,Money Transfer,Mumbai,Mobile,Fashion,43,Failed,0
+TXN100623,2026-04-23,17:22,CUST1125,20.0,UPI,Bill Payment,Delhi,Mobile,Electronics,50,Failed,0
+TXN100624,2026-04-23,01:28,CUST1095,166.49,UPI,ATM,Kochi,Desktop,Utilities,54,Blocked,1
+TXN100625,2026-04-23,04:17,CUST1078,117.87,UPI,Online Purchase,Hyderabad,Mobile,Entertainment,65,Successful,0
+TXN100626,2026-04-23,04:30,CUST1054,130.56,Net Banking,Money Transfer,Coimbatore,Desktop,Electronics,32,Successful,0
+TXN100627,2026-04-23,05:29,CUST1047,65.9,Debit Card,Bill Payment,Pune,Mobile,Travel,19,Successful,0
+TXN100628,2026-04-23,18:51,CUST1014,407.69,UPI,Money Transfer,Hyderabad,Desktop,Grocery,58,Successful,0
+TXN100629,2026-04-24,07:38,CUST1176,2049.58,Net Banking,Online Purchase,Chennai,Mobile,Food,24,Successful,0
+TXN100630,2026-04-24,15:34,CUST1055,78.72,Net Banking,Online Purchase,Hyderabad,Mobile,Electronics,49,Successful,0
+TXN100631,2026-04-24,12:17,CUST1157,734.87,Net Banking,Subscription,Mumbai,Tablet,Food,21,Successful,0
+TXN100632,2026-04-24,00:58,CUST1175,261.56,Net Banking,Online Purchase,Mumbai,Mobile,Food,37,Successful,0
+TXN100633,2026-04-24,21:41,CUST1063,187.81,UPI,Bill Payment,Kochi,Mobile,Grocery,53,Successful,0
+TXN100634,2026-04-25,19:38,CUST1019,128.49,Debit Card,Online Purchase,Hyderabad,Mobile,Travel,49,Successful,0
+TXN100635,2026-04-25,16:16,CUST1091,166.8,Credit Card,Online Purchase,Mumbai,Mobile,Grocery,45,Successful,0
+TXN100636,2026-04-25,06:13,CUST1137,572.26,Net Banking,Online Purchase,Coimbatore,Mobile,Utilities,30,Successful,0
+TXN100637,2026-04-25,12:30,CUST1101,58.09,Debit Card,Online Purchase,Delhi,Mobile,Electronics,18,Successful,0
+TXN100638,2026-04-25,03:23,CUST1037,137.69,Debit Card,ATM,Hyderabad,Mobile,Food,52,Failed,0
+TXN100639,2026-04-25,03:34,CUST1107,632.07,Debit Card,Online Purchase,Pune,Mobile,Grocery,65,Successful,0
+TXN100640,2026-04-26,05:43,CUST1092,484.79,UPI,Subscription,Coimbatore,Desktop,Grocery,47,Successful,0
+TXN100641,2026-04-26,18:59,CUST1052,58.99,Credit Card,Money Transfer,Kochi,Mobile,Grocery,53,Successful,0
+TXN100642,2026-04-26,11:44,CUST1185,151.02,Wallet,Bill Payment,Delhi,Mobile,Electronics,42,Successful,0
+TXN100643,2026-04-26,21:33,CUST1028,375.41,Wallet,Money Transfer,Pune,Mobile,Travel,33,Successful,0
+TXN100644,2026-04-26,06:02,CUST1036,351.93,UPI,Bill Payment,Kochi,Mobile,Entertainment,36,Successful,0
+TXN100645,2026-04-27,09:36,CUST1116,480.65,UPI,ATM,Pune,Mobile,Grocery,18,Successful,0
+TXN100646,2026-04-27,18:42,CUST1064,266.21,UPI,Online Purchase,Kochi,Mobile,Electronics,22,Successful,0
+TXN100647,2026-04-27,06:39,CUST1018,314.8,Debit Card,Bill Payment,Pune,Mobile,Food,39,Successful,0
+TXN100648,2026-04-27,02:25,CUST1089,255.39,Net Banking,Subscription,Delhi,Mobile,Utilities,41,Successful,0
+TXN100649,2026-04-27,12:54,CUST1163,879.83,UPI,Subscription,Coimbatore,Mobile,Entertainment,60,Successful,0
+TXN100650,2026-04-27,12:22,CUST1196,118.89,Credit Card,Subscription,Pune,Mobile,Fashion,62,Successful,0
+TXN100651,2026-04-28,17:43,CUST1078,190.22,Net Banking,Bill Payment,Pune,Mobile,Entertainment,54,Successful,0
+TXN100652,2026-04-28,19:38,CUST1167,65.7,Debit Card,ATM,Bengaluru,Mobile,Entertainment,53,Successful,0
+TXN100653,2026-04-28,07:14,CUST1090,53.95,Credit Card,Bill Payment,Hyderabad,Mobile,Electronics,53,Successful,0
+TXN100654,2026-04-28,08:55,CUST1008,250.88,Debit Card,Bill Payment,Delhi,Mobile,Fashion,21,Successful,0
+TXN100655,2026-04-28,06:48,CUST1015,87.87,Credit Card,Online Purchase,Kochi,Desktop,Grocery,53,Successful,0
+TXN100656,2026-04-29,00:03,CUST1007,171.11,UPI,Money Transfer,Delhi,Mobile,Grocery,35,Under Review,1
+TXN100657,2026-04-29,02:28,CUST1017,913.93,Credit Card,Online Purchase,Mumbai,Mobile,Entertainment,33,Successful,0
+TXN100658,2026-04-29,12:21,CUST1086,862.59,Debit Card,Online Purchase,Kochi,Mobile,Electronics,58,Successful,0
+TXN100659,2026-04-29,16:24,CUST1118,1675.8,Net Banking,ATM,Delhi,Mobile,Fashion,35,Successful,0
+TXN100660,2026-04-29,23:12,CUST1064,932.3,Debit Card,Online Purchase,Coimbatore,Mobile,Grocery,39,Successful,1
+TXN100661,2026-04-29,00:17,CUST1012,2004.24,Debit Card,Online Purchase,Kochi,Mobile,Food,19,Successful,0
+TXN100662,2026-04-30,05:32,CUST1056,280.49,UPI,Online Purchase,Kochi,Desktop,Travel,38,Failed,0
+TXN100663,2026-04-30,20:15,CUST1174,73.48,Credit Card,Subscription,Delhi,Mobile,Travel,53,Successful,0
+TXN100664,2026-04-30,05:44,CUST1175,66.66,UPI,Bill Payment,Kochi,Tablet,Grocery,61,Successful,0
+TXN100665,2026-04-30,11:41,CUST1101,732.4,UPI,Bill Payment,Bengaluru,Mobile,Fashion,56,Successful,0
+TXN100666,2026-04-30,12:43,CUST1016,190.88,Debit Card,ATM,Hyderabad,Mobile,Utilities,64,Successful,0
+TXN100667,2026-05-01,12:01,CUST1197,205.64,Wallet,ATM,Kochi,Mobile,Grocery,56,Successful,0
+TXN100668,2026-05-01,14:54,CUST1002,104.68,UPI,Online Purchase,Hyderabad,Mobile,Utilities,46,Successful,0
+TXN100669,2026-05-01,20:34,CUST1128,118.02,Credit Card,Money Transfer,Delhi,Mobile,Utilities,43,Successful,0
+TXN100670,2026-05-01,15:41,CUST1092,266.07,Net Banking,ATM,Pune,Mobile,Fashion,38,Successful,0
+TXN100671,2026-05-01,21:33,CUST1105,63.1,UPI,Money Transfer,Chennai,Mobile,Utilities,34,Successful,0
+TXN100672,2026-05-01,20:29,CUST1182,234.43,Credit Card,Online Purchase,Chennai,Tablet,Food,33,Successful,0
+TXN100673,2026-05-02,10:58,CUST1155,821.46,Debit Card,ATM,Pune,Desktop,Fashion,48,Successful,0
+TXN100674,2026-05-02,04:54,CUST1031,21.46,Debit Card,Money Transfer,Pune,Mobile,Grocery,26,Blocked,1
+TXN100675,2026-05-02,03:12,CUST1169,38.81,UPI,Online Purchase,Pune,Mobile,Entertainment,48,Successful,0
+TXN100676,2026-05-02,02:12,CUST1164,356.24,UPI,Bill Payment,Coimbatore,Mobile,Food,31,Successful,0
+TXN100677,2026-05-02,18:17,CUST1047,709.08,Debit Card,Online Purchase,Chennai,Mobile,Electronics,54,Successful,0
+TXN100678,2026-05-02,19:31,CUST1043,111.06,Credit Card,Online Purchase,Pune,Mobile,Travel,19,Successful,0
+TXN100679,2026-05-03,17:31,CUST1065,24.58,UPI,ATM,Coimbatore,Mobile,Grocery,65,Successful,0
+TXN100680,2026-05-03,14:34,CUST1050,758.94,Debit Card,Online Purchase,Mumbai,Mobile,Grocery,63,Successful,0
+TXN100681,2026-05-03,08:58,CUST1001,80.55,UPI,Bill Payment,Kochi,Mobile,Grocery,31,Failed,0
+TXN100682,2026-05-03,16:38,CUST1200,126.31,Debit Card,Money Transfer,Coimbatore,Tablet,Food,50,Successful,0
+TXN100683,2026-05-03,13:45,CUST1185,249.4,UPI,Online Purchase,Chennai,Mobile,Electronics,52,Successful,0
+TXN100684,2026-05-04,14:51,CUST1144,93.09,Wallet,Subscription,Delhi,Tablet,Entertainment,56,Successful,0
+TXN100685,2026-05-04,00:28,CUST1122,75.48,UPI,Online Purchase,Mumbai,Mobile,Fashion,64,Successful,0
+TXN100686,2026-05-04,20:48,CUST1028,76.88,UPI,Online Purchase,Chennai,Mobile,Electronics,37,Successful,0
+TXN100687,2026-05-04,21:28,CUST1086,1162.04,UPI,Online Purchase,Kochi,Mobile,Food,19,Successful,0
+TXN100688,2026-05-04,21:52,CUST1082,578.02,UPI,Online Purchase,Coimbatore,Mobile,Grocery,58,Successful,0
+TXN100689,2026-05-04,02:43,CUST1022,321.99,Net Banking,Online Purchase,Bengaluru,Mobile,Travel,36,Successful,0
+TXN100690,2026-05-05,15:56,CUST1041,20.36,Wallet,Money Transfer,Hyderabad,Mobile,Grocery,54,Failed,0
+TXN100691,2026-05-05,22:15,CUST1076,323.17,UPI,Subscription,Kochi,Mobile,Fashion,35,Successful,0
+TXN100692,2026-05-05,10:55,CUST1147,306.19,Credit Card,Online Purchase,Chennai,Mobile,Utilities,33,Successful,0
+TXN100693,2026-05-05,11:43,CUST1089,50.49,Debit Card,Money Transfer,Pune,Mobile,Travel,21,Successful,0
+TXN100694,2026-05-05,09:46,CUST1178,234.79,Net Banking,ATM,Coimbatore,Mobile,Grocery,29,Failed,0
+TXN100695,2026-05-06,15:56,CUST1059,518.79,Debit Card,ATM,Pune,Mobile,Entertainment,46,Successful,0
+TXN100696,2026-05-06,07:09,CUST1069,320.33,UPI,Bill Payment,Pune,Mobile,Travel,24,Successful,0
+TXN100697,2026-05-06,05:29,CUST1162,91.82,Credit Card,Online Purchase,Pune,Mobile,Utilities,31,Successful,0
+TXN100698,2026-05-06,11:24,CUST1167,183.69,Debit Card,Online Purchase,Pune,Mobile,Electronics,29,Successful,0
+TXN100699,2026-05-06,23:38,CUST1123,376.29,UPI,Money Transfer,Pune,Tablet,Food,52,Successful,0
+TXN100700,2026-05-06,20:19,CUST1074,192.38,Debit Card,ATM,Mumbai,Mobile,Grocery,22,Successful,0
+TXN100701,2026-05-07,07:04,CUST1007,635.42,UPI,Online Purchase,Chennai,Desktop,Fashion,34,Successful,0
+TXN100702,2026-05-07,03:00,CUST1101,269.26,Debit Card,Bill Payment,Kochi,Mobile,Electronics,59,Successful,0
+TXN100703,2026-05-07,07:29,CUST1111,384.88,UPI,Subscription,Chennai,Mobile,Grocery,49,Successful,0
+TXN100704,2026-05-07,17:48,CUST1180,412.16,Debit Card,ATM,Kochi,Mobile,Electronics,27,Failed,0
+TXN100705,2026-05-07,04:02,CUST1188,62.38,Credit Card,Subscription,Hyderabad,Mobile,Fashion,60,Successful,0
+TXN100706,2026-05-08,08:44,CUST1052,190.56,Debit Card,ATM,Coimbatore,Mobile,Grocery,34,Successful,0
+TXN100707,2026-05-08,03:13,CUST1024,130.01,UPI,Bill Payment,Bengaluru,Desktop,Utilities,22,Blocked,1
+TXN100708,2026-05-08,21:55,CUST1026,514.83,Credit Card,Money Transfer,Mumbai,Mobile,Utilities,62,Successful,0
+TXN100709,2026-05-08,16:29,CUST1125,288.08,Credit Card,Money Transfer,Coimbatore,Mobile,Fashion,59,Successful,0
+TXN100710,2026-05-08,08:49,CUST1090,150.17,Credit Card,Online Purchase,Mumbai,Mobile,Travel,26,Successful,0
+TXN100711,2026-05-08,00:03,CUST1122,50.31,Debit Card,Money Transfer,Kochi,Tablet,Fashion,50,Successful,1
+TXN100712,2026-05-09,20:17,CUST1010,36.71,Debit Card,Money Transfer,Chennai,Mobile,Travel,53,Successful,0
+TXN100713,2026-05-09,19:36,CUST1017,247.24,Net Banking,Online Purchase,Pune,Mobile,Grocery,53,Successful,0
+TXN100714,2026-05-09,12:24,CUST1002,88.48,UPI,ATM,Hyderabad,Mobile,Travel,35,Successful,0
+TXN100715,2026-05-09,15:47,CUST1112,352.88,Net Banking,Money Transfer,Hyderabad,Desktop,Grocery,26,Successful,0
+TXN100716,2026-05-09,12:00,CUST1027,35.05,Credit Card,Subscription,Delhi,Tablet,Grocery,46,Successful,0
+TXN100717,2026-05-10,13:52,CUST1071,891.54,UPI,Online Purchase,Bengaluru,Mobile,Entertainment,31,Successful,0
+TXN100718,2026-05-10,02:45,CUST1176,352.08,UPI,Online Purchase,Hyderabad,Desktop,Food,42,Blocked,1
+TXN100719,2026-05-10,05:14,CUST1118,200.17,UPI,Money Transfer,Pune,Desktop,Grocery,32,Successful,0
+TXN100720,2026-05-10,17:08,CUST1009,975.61,Debit Card,Online Purchase,Chennai,Mobile,Travel,23,Successful,0
+TXN100721,2026-05-10,18:14,CUST1086,467.98,Debit Card,Money Transfer,Bengaluru,Mobile,Food,59,Under Review,1
+TXN100722,2026-05-10,04:48,CUST1023,112.73,Debit Card,ATM,Kochi,Mobile,Food,46,Successful,0
+TXN100723,2026-05-11,14:56,CUST1199,195.89,Credit Card,Online Purchase,Coimbatore,Tablet,Grocery,32,Successful,0
+TXN100724,2026-05-11,01:23,CUST1073,25.42,Credit Card,Bill Payment,Kochi,Mobile,Fashion,46,Successful,0
+TXN100725,2026-05-11,09:03,CUST1027,525.42,UPI,Bill Payment,Pune,Desktop,Fashion,21,Successful,0
+TXN100726,2026-05-11,23:11,CUST1093,134.83,UPI,Bill Payment,Pune,Mobile,Utilities,35,Successful,0
+TXN100727,2026-05-11,17:58,CUST1081,25.1,Credit Card,Subscription,Hyderabad,Desktop,Food,61,Successful,0
+TXN100728,2026-05-11,12:57,CUST1084,55.6,UPI,ATM,Bengaluru,Mobile,Grocery,56,Successful,0
+TXN100729,2026-05-12,04:36,CUST1199,433.08,UPI,Money Transfer,Chennai,Mobile,Entertainment,33,Successful,0
+TXN100730,2026-05-12,22:36,CUST1043,910.33,Debit Card,Money Transfer,Kochi,Desktop,Fashion,28,Failed,0
+TXN100731,2026-05-12,23:42,CUST1007,185.01,Debit Card,Bill Payment,Delhi,Desktop,Entertainment,31,Successful,0
+TXN100732,2026-05-12,00:59,CUST1092,67.89,Wallet,Subscription,Kochi,Desktop,Grocery,20,Blocked,1
+TXN100733,2026-05-12,21:05,CUST1083,43.78,Wallet,Money Transfer,Mumbai,Mobile,Grocery,59,Successful,0
+TXN100734,2026-05-13,00:38,CUST1191,745.92,Debit Card,Money Transfer,Mumbai,Mobile,Food,55,Under Review,1
+TXN100735,2026-05-13,17:55,CUST1084,284.14,Credit Card,ATM,Chennai,Mobile,Entertainment,62,Successful,0
+TXN100736,2026-05-13,14:45,CUST1044,130.3,Debit Card,Online Purchase,Chennai,Mobile,Utilities,59,Successful,0
+TXN100737,2026-05-13,16:23,CUST1167,102.69,Debit Card,ATM,Mumbai,Mobile,Food,35,Successful,0
+TXN100738,2026-05-13,10:10,CUST1040,354.9,UPI,Online Purchase,Delhi,Mobile,Electronics,37,Successful,0
+TXN100739,2026-05-13,20:12,CUST1135,345.27,Credit Card,Bill Payment,Bengaluru,Mobile,Entertainment,65,Successful,0
+TXN100740,2026-05-14,21:33,CUST1198,73.95,Net Banking,Online Purchase,Mumbai,Tablet,Fashion,42,Successful,0
+TXN100741,2026-05-14,16:24,CUST1025,57.84,UPI,Subscription,Chennai,Mobile,Fashion,55,Successful,0
+TXN100742,2026-05-14,12:06,CUST1059,60.83,Credit Card,ATM,Hyderabad,Mobile,Fashion,30,Successful,0
+TXN100743,2026-05-14,00:51,CUST1141,113.5,Debit Card,Money Transfer,Coimbatore,Mobile,Travel,21,Blocked,1
+TXN100744,2026-05-14,01:03,CUST1103,90.94,UPI,Money Transfer,Delhi,Mobile,Grocery,31,Blocked,1
+TXN100745,2026-05-15,08:58,CUST1086,914.24,UPI,Money Transfer,Pune,Mobile,Food,50,Successful,0
+TXN100746,2026-05-15,02:07,CUST1112,109.53,UPI,Subscription,Delhi,Tablet,Fashion,45,Successful,0
+TXN100747,2026-05-15,00:19,CUST1086,51.95,UPI,Bill Payment,Hyderabad,Desktop,Electronics,54,Under Review,1
+TXN100748,2026-05-15,20:28,CUST1098,54.95,UPI,Bill Payment,Hyderabad,Desktop,Fashion,25,Successful,0
+TXN100749,2026-05-15,15:53,CUST1062,150.81,Net Banking,Online Purchase,Pune,Tablet,Utilities,61,Successful,0
+TXN100750,2026-05-15,22:52,CUST1008,29.31,UPI,ATM,Kochi,Mobile,Grocery,51,Successful,0
+TXN100751,2026-05-16,05:50,CUST1113,170.7,Credit Card,Money Transfer,Chennai,Mobile,Entertainment,61,Successful,0
+TXN100752,2026-05-16,16:44,CUST1173,47.65,UPI,Bill Payment,Mumbai,Mobile,Grocery,22,Successful,0
+TXN100753,2026-05-16,04:45,CUST1146,577.44,Wallet,Online Purchase,Kochi,Mobile,Entertainment,22,Successful,1
+TXN100754,2026-05-16,04:09,CUST1060,203.68,UPI,ATM,Bengaluru,Mobile,Entertainment,48,Successful,0
+TXN100755,2026-05-16,05:42,CUST1060,1511.75,Credit Card,Online Purchase,Delhi,Mobile,Food,62,Successful,0
+TXN100756,2026-05-17,02:33,CUST1106,144.29,Net Banking,Money Transfer,Pune,Mobile,Travel,26,Blocked,1
+TXN100757,2026-05-17,20:56,CUST1002,20.0,Net Banking,Subscription,Delhi,Mobile,Entertainment,59,Successful,0
+TXN100758,2026-05-17,22:25,CUST1194,778.74,UPI,Bill Payment,Kochi,Mobile,Entertainment,49,Failed,0
+TXN100759,2026-05-17,04:40,CUST1091,299.44,Net Banking,Online Purchase,Hyderabad,Mobile,Food,50,Successful,0
+TXN100760,2026-05-17,20:48,CUST1014,349.64,Credit Card,Money Transfer,Mumbai,Mobile,Fashion,20,Successful,0
+TXN100761,2026-05-17,04:57,CUST1048,66.51,Credit Card,ATM,Delhi,Mobile,Utilities,47,Successful,0
+TXN100762,2026-05-18,09:02,CUST1103,173.67,UPI,Money Transfer,Bengaluru,Mobile,Electronics,29,Successful,0
+TXN100763,2026-05-18,09:55,CUST1056,218.43,UPI,Subscription,Hyderabad,Desktop,Food,46,Successful,0
+TXN100764,2026-05-18,18:05,CUST1012,142.9,Debit Card,Online Purchase,Bengaluru,Mobile,Travel,20,Successful,0
+TXN100765,2026-05-18,16:04,CUST1055,32.0,Credit Card,Bill Payment,Mumbai,Mobile,Food,43,Successful,0
+TXN100766,2026-05-18,20:04,CUST1156,2889.08,Credit Card,Money Transfer,Delhi,Desktop,Grocery,47,Successful,0
+TXN100767,2026-05-19,13:53,CUST1110,418.15,Debit Card,ATM,Coimbatore,Mobile,Fashion,26,Successful,0
+TXN100768,2026-05-19,08:46,CUST1004,276.05,Debit Card,Online Purchase,Kochi,Mobile,Fashion,43,Successful,0
+TXN100769,2026-05-19,13:22,CUST1036,674.44,UPI,ATM,Delhi,Mobile,Entertainment,19,Successful,0
+TXN100770,2026-05-19,00:48,CUST1178,345.22,Debit Card,Money Transfer,Kochi,Mobile,Fashion,20,Under Review,1
+TXN100771,2026-05-19,18:08,CUST1131,92.09,UPI,Bill Payment,Mumbai,Desktop,Fashion,63,Blocked,1
+TXN100772,2026-05-19,12:34,CUST1001,632.56,Debit Card,Online Purchase,Delhi,Desktop,Fashion,21,Blocked,1
+TXN100773,2026-05-20,12:19,CUST1017,425.05,Debit Card,ATM,Kochi,Mobile,Fashion,42,Successful,0
+TXN100774,2026-05-20,03:57,CUST1199,95.65,Wallet,Online Purchase,Pune,Mobile,Electronics,30,Under Review,1
+TXN100775,2026-05-20,00:48,CUST1062,399.42,UPI,Online Purchase,Kochi,Mobile,Travel,56,Successful,0
+TXN100776,2026-05-20,16:58,CUST1048,142.51,UPI,Online Purchase,Delhi,Mobile,Entertainment,61,Successful,0
+TXN100777,2026-05-20,07:41,CUST1062,223.29,UPI,ATM,Chennai,Mobile,Fashion,52,Successful,0
+TXN100778,2026-05-21,01:34,CUST1069,330.18,UPI,Money Transfer,Delhi,Mobile,Entertainment,40,Blocked,1
+TXN100779,2026-05-21,07:49,CUST1147,712.3,UPI,ATM,Delhi,Mobile,Travel,26,Successful,0
+TXN100780,2026-05-21,06:17,CUST1103,95.01,Net Banking,Online Purchase,Kochi,Mobile,Utilities,19,Successful,0
+TXN100781,2026-05-21,01:16,CUST1110,261.12,UPI,Money Transfer,Bengaluru,Mobile,Fashion,58,Under Review,1
+TXN100782,2026-05-21,21:23,CUST1162,1360.66,UPI,Money Transfer,Coimbatore,Mobile,Entertainment,61,Successful,0
+TXN100783,2026-05-21,21:02,CUST1177,152.01,Debit Card,ATM,Bengaluru,Mobile,Food,48,Successful,0
+TXN100784,2026-05-22,02:31,CUST1175,220.65,Credit Card,Subscription,Kochi,Desktop,Entertainment,61,Under Review,1
+TXN100785,2026-05-22,17:34,CUST1091,1358.63,Debit Card,Online Purchase,Bengaluru,Mobile,Fashion,64,Successful,0
+TXN100786,2026-05-22,11:37,CUST1114,342.91,UPI,Money Transfer,Hyderabad,Mobile,Grocery,19,Successful,0
+TXN100787,2026-05-22,00:12,CUST1178,41.51,Credit Card,Online Purchase,Chennai,Tablet,Electronics,49,Successful,0
+TXN100788,2026-05-22,21:55,CUST1089,81.82,UPI,Money Transfer,Bengaluru,Mobile,Food,35,Successful,0
+TXN100789,2026-05-22,11:46,CUST1154,361.25,UPI,Online Purchase,Pune,Mobile,Food,30,Successful,0
+TXN100790,2026-05-23,04:24,CUST1056,276.72,Net Banking,Online Purchase,Mumbai,Mobile,Grocery,63,Successful,0
+TXN100791,2026-05-23,16:08,CUST1078,213.27,UPI,Bill Payment,Pune,Mobile,Fashion,22,Successful,0
+TXN100792,2026-05-23,15:03,CUST1014,1573.76,Credit Card,Money Transfer,Mumbai,Mobile,Electronics,59,Successful,0
+TXN100793,2026-05-23,14:13,CUST1025,97.76,Credit Card,Online Purchase,Delhi,Mobile,Food,61,Successful,0
+TXN100794,2026-05-23,22:36,CUST1132,168.27,UPI,Money Transfer,Hyderabad,Mobile,Electronics,27,Successful,0
+TXN100795,2026-05-24,14:33,CUST1032,25.45,Net Banking,Bill Payment,Chennai,Desktop,Food,60,Successful,0
+TXN100796,2026-05-24,04:10,CUST1082,578.63,UPI,Online Purchase,Pune,Mobile,Fashion,42,Successful,0
+TXN100797,2026-05-24,20:40,CUST1078,81.54,Debit Card,ATM,Chennai,Mobile,Utilities,51,Successful,0
+TXN100798,2026-05-24,13:55,CUST1193,521.72,Wallet,Online Purchase,Pune,Desktop,Food,54,Successful,0
+TXN100799,2026-05-24,01:02,CUST1106,469.67,Credit Card,Bill Payment,Delhi,Mobile,Utilities,47,Successful,0
+TXN100800,2026-05-24,10:58,CUST1189,1899.03,Wallet,Money Transfer,Mumbai,Desktop,Food,24,Blocked,1
+TXN100801,2026-05-25,18:27,CUST1020,346.98,UPI,Online Purchase,Coimbatore,Mobile,Travel,23,Successful,0
+TXN100802,2026-05-25,06:28,CUST1074,126.97,Credit Card,Online Purchase,Hyderabad,Desktop,Fashion,20,Successful,0
+TXN100803,2026-05-25,05:08,CUST1010,285.32,UPI,Bill Payment,Pune,Mobile,Grocery,30,Successful,0
+TXN100804,2026-05-25,01:02,CUST1123,84.84,Debit Card,Subscription,Pune,Desktop,Utilities,20,Under Review,1
+TXN100805,2026-05-25,05:24,CUST1034,249.43,Wallet,Money Transfer,Delhi,Desktop,Grocery,43,Blocked,1
+TXN100806,2026-05-26,17:33,CUST1189,148.28,UPI,Money Transfer,Hyderabad,Mobile,Fashion,41,Successful,0
+TXN100807,2026-05-26,01:11,CUST1155,168.96,Debit Card,Money Transfer,Mumbai,Mobile,Entertainment,23,Blocked,1
+TXN100808,2026-05-26,17:41,CUST1040,73.82,UPI,Online Purchase,Mumbai,Mobile,Grocery,60,Successful,0
+TXN100809,2026-05-26,14:08,CUST1193,244.8,Credit Card,Bill Payment,Pune,Mobile,Fashion,59,Successful,0
+TXN100810,2026-05-26,18:14,CUST1127,413.32,Credit Card,ATM,Coimbatore,Mobile,Grocery,29,Successful,0
+TXN100811,2026-05-26,01:39,CUST1033,34.74,Wallet,Online Purchase,Coimbatore,Mobile,Utilities,53,Under Review,1
+TXN100812,2026-05-27,19:24,CUST1196,91.05,Debit Card,Online Purchase,Chennai,Mobile,Travel,19,Successful,0
+TXN100813,2026-05-27,05:04,CUST1071,214.44,UPI,Online Purchase,Hyderabad,Mobile,Grocery,28,Successful,0
+TXN100814,2026-05-27,00:10,CUST1137,20.0,UPI,Bill Payment,Hyderabad,Mobile,Utilities,56,Successful,0
+TXN100815,2026-05-27,23:58,CUST1144,1033.04,UPI,Subscription,Mumbai,Mobile,Food,51,Successful,0
+TXN100816,2026-05-27,14:33,CUST1133,89.02,UPI,Online Purchase,Chennai,Mobile,Fashion,43,Successful,0
+TXN100817,2026-05-28,22:23,CUST1098,70.95,UPI,Bill Payment,Delhi,Mobile,Electronics,35,Failed,0
+TXN100818,2026-05-28,09:59,CUST1124,147.33,Net Banking,Online Purchase,Hyderabad,Mobile,Entertainment,38,Successful,0
+TXN100819,2026-05-28,18:14,CUST1151,207.97,Credit Card,Subscription,Chennai,Mobile,Electronics,53,Successful,0
+TXN100820,2026-05-28,16:37,CUST1043,85.07,Credit Card,Online Purchase,Chennai,Mobile,Fashion,57,Successful,0
+TXN100821,2026-05-28,04:07,CUST1114,483.19,UPI,Bill Payment,Pune,Mobile,Travel,63,Successful,0
+TXN100822,2026-05-28,03:58,CUST1089,270.35,Net Banking,Money Transfer,Mumbai,Mobile,Grocery,61,Blocked,1
+TXN100823,2026-05-29,09:04,CUST1185,78.47,Debit Card,Money Transfer,Chennai,Desktop,Travel,39,Successful,0
+TXN100824,2026-05-29,23:47,CUST1179,107.51,UPI,Bill Payment,Kochi,Mobile,Electronics,47,Successful,0
+TXN100825,2026-05-29,16:25,CUST1013,39.77,Debit Card,Bill Payment,Coimbatore,Mobile,Entertainment,60,Successful,1
+TXN100826,2026-05-29,09:17,CUST1128,51.76,Credit Card,Bill Payment,Kochi,Mobile,Utilities,47,Successful,0
+TXN100827,2026-05-29,16:05,CUST1152,267.09,UPI,Online Purchase,Coimbatore,Desktop,Entertainment,25,Successful,0
+TXN100828,2026-05-30,19:36,CUST1139,79.29,Credit Card,Online Purchase,Bengaluru,Tablet,Fashion,51,Successful,0
+TXN100829,2026-05-30,23:59,CUST1052,1101.34,Credit Card,Bill Payment,Mumbai,Mobile,Fashion,64,Successful,0
+TXN100830,2026-05-30,04:47,CUST1017,194.6,UPI,Online Purchase,Pune,Mobile,Travel,26,Failed,0
+TXN100831,2026-05-30,01:12,CUST1165,46.86,Wallet,Online Purchase,Delhi,Desktop,Utilities,37,Successful,0
+TXN100832,2026-05-30,05:27,CUST1013,57.78,Net Banking,Money Transfer,Kochi,Mobile,Travel,57,Successful,0
+TXN100833,2026-05-30,20:04,CUST1190,519.55,Debit Card,Subscription,Kochi,Mobile,Grocery,42,Successful,0
+TXN100834,2026-05-31,01:12,CUST1084,167.92,Credit Card,Money Transfer,Bengaluru,Mobile,Food,36,Blocked,1
+TXN100835,2026-05-31,12:16,CUST1097,488.82,Credit Card,Online Purchase,Coimbatore,Mobile,Utilities,22,Successful,0
+TXN100836,2026-05-31,10:49,CUST1106,125.65,Debit Card,Online Purchase,Pune,Tablet,Food,28,Successful,0
+TXN100837,2026-05-31,10:39,CUST1096,103.52,Credit Card,Subscription,Bengaluru,Tablet,Entertainment,32,Successful,0
+TXN100838,2026-05-31,15:44,CUST1008,555.27,UPI,Online Purchase,Mumbai,Desktop,Grocery,25,Successful,0
+TXN100839,2026-05-31,10:31,CUST1056,76.82,Credit Card,Online Purchase,Pune,Mobile,Food,36,Failed,0
+TXN100840,2026-06-01,18:28,CUST1104,295.61,Net Banking,Money Transfer,Mumbai,Desktop,Electronics,40,Successful,0
+TXN100841,2026-06-01,14:50,CUST1083,146.67,Credit Card,Money Transfer,Chennai,Mobile,Entertainment,44,Successful,0
+TXN100842,2026-06-01,22:57,CUST1198,436.47,UPI,Money Transfer,Hyderabad,Mobile,Food,57,Successful,0
+TXN100843,2026-06-01,22:02,CUST1044,1117.09,Debit Card,Online Purchase,Chennai,Desktop,Grocery,49,Successful,0
+TXN100844,2026-06-01,15:55,CUST1188,122.46,UPI,Online Purchase,Mumbai,Mobile,Food,43,Successful,0
+TXN100845,2026-06-02,10:39,CUST1103,104.88,UPI,Subscription,Kochi,Mobile,Fashion,44,Successful,0
+TXN100846,2026-06-02,21:33,CUST1112,352.77,UPI,Online Purchase,Pune,Mobile,Travel,36,Successful,0
+TXN100847,2026-06-02,15:39,CUST1169,61.44,UPI,Money Transfer,Coimbatore,Desktop,Electronics,59,Successful,0
+TXN100848,2026-06-02,07:26,CUST1149,912.75,Debit Card,Money Transfer,Delhi,Mobile,Fashion,46,Successful,0
+TXN100849,2026-06-02,03:12,CUST1042,769.72,Credit Card,Money Transfer,Coimbatore,Mobile,Fashion,56,Blocked,1
+TXN100850,2026-06-02,07:44,CUST1157,66.75,UPI,Online Purchase,Pune,Mobile,Grocery,58,Successful,0
+TXN100851,2026-06-03,03:32,CUST1193,37.22,Net Banking,Online Purchase,Chennai,Desktop,Travel,50,Successful,1
+TXN100852,2026-06-03,23:05,CUST1145,56.79,Net Banking,Money Transfer,Delhi,Desktop,Travel,36,Successful,0
+TXN100853,2026-06-03,02:23,CUST1030,57.66,Net Banking,ATM,Pune,Mobile,Utilities,54,Successful,0
+TXN100854,2026-06-03,02:18,CUST1026,404.14,UPI,Subscription,Mumbai,Mobile,Entertainment,36,Successful,0
+TXN100855,2026-06-03,17:15,CUST1181,853.35,Credit Card,Online Purchase,Kochi,Mobile,Electronics,50,Successful,0
+TXN100856,2026-06-04,18:39,CUST1125,399.47,Wallet,Online Purchase,Coimbatore,Tablet,Entertainment,64,Successful,0
+TXN100857,2026-06-04,18:27,CUST1019,143.14,Debit Card,Subscription,Mumbai,Mobile,Grocery,33,Successful,0
+TXN100858,2026-06-04,20:32,CUST1053,255.32,UPI,Money Transfer,Delhi,Tablet,Electronics,40,Successful,0
+TXN100859,2026-06-04,04:58,CUST1085,75.96,UPI,Subscription,Delhi,Mobile,Utilities,24,Successful,0
+TXN100860,2026-06-04,17:58,CUST1017,543.05,Credit Card,Online Purchase,Coimbatore,Desktop,Food,43,Successful,0
+TXN100861,2026-06-04,09:47,CUST1174,279.23,Net Banking,Money Transfer,Mumbai,Desktop,Fashion,49,Successful,0
+TXN100862,2026-06-05,21:40,CUST1104,392.76,Credit Card,Money Transfer,Bengaluru,Mobile,Electronics,29,Successful,0
+TXN100863,2026-06-05,20:12,CUST1181,87.57,Credit Card,Money Transfer,Mumbai,Tablet,Entertainment,25,Successful,0
+TXN100864,2026-06-05,05:42,CUST1105,153.15,UPI,Bill Payment,Delhi,Mobile,Fashion,22,Successful,1
+TXN100865,2026-06-05,00:44,CUST1104,374.31,Debit Card,Online Purchase,Mumbai,Mobile,Grocery,59,Successful,0
+TXN100866,2026-06-05,04:24,CUST1192,767.79,Net Banking,Money Transfer,Kochi,Mobile,Entertainment,45,Successful,1
+TXN100867,2026-06-06,08:52,CUST1173,98.68,UPI,Online Purchase,Pune,Desktop,Food,22,Successful,0
+TXN100868,2026-06-06,11:41,CUST1177,395.62,Debit Card,Bill Payment,Chennai,Mobile,Grocery,43,Successful,0
+TXN100869,2026-06-06,13:35,CUST1147,88.94,Wallet,Subscription,Kochi,Mobile,Food,22,Failed,0
+TXN100870,2026-06-06,01:26,CUST1124,1505.97,UPI,Bill Payment,Bengaluru,Mobile,Food,39,Successful,0
+TXN100871,2026-06-06,16:37,CUST1199,119.72,Credit Card,ATM,Hyderabad,Mobile,Fashion,32,Successful,0
+TXN100872,2026-06-06,13:59,CUST1081,344.99,UPI,Online Purchase,Pune,Mobile,Grocery,30,Successful,0
+TXN100873,2026-06-07,12:06,CUST1193,213.92,Debit Card,Money Transfer,Chennai,Mobile,Grocery,45,Successful,0
+TXN100874,2026-06-07,08:04,CUST1037,2453.58,Credit Card,Subscription,Hyderabad,Desktop,Electronics,50,Successful,0
+TXN100875,2026-06-07,14:42,CUST1121,228.13,Debit Card,Online Purchase,Coimbatore,Mobile,Entertainment,60,Successful,0
+TXN100876,2026-06-07,21:44,CUST1070,108.3,Debit Card,Online Purchase,Hyderabad,Mobile,Grocery,40,Successful,0
+TXN100877,2026-06-07,14:57,CUST1154,343.61,UPI,Bill Payment,Pune,Mobile,Electronics,50,Successful,0
+TXN100878,2026-06-08,23:56,CUST1130,336.04,Net Banking,Online Purchase,Mumbai,Mobile,Travel,60,Successful,0
+TXN100879,2026-06-08,10:50,CUST1059,154.86,Credit Card,ATM,Pune,Desktop,Travel,35,Successful,0
+TXN100880,2026-06-08,15:30,CUST1118,60.66,UPI,Subscription,Kochi,Desktop,Travel,47,Successful,0
+TXN100881,2026-06-08,16:22,CUST1133,106.91,Debit Card,Bill Payment,Hyderabad,Mobile,Utilities,43,Successful,0
+TXN100882,2026-06-08,03:41,CUST1037,437.68,Debit Card,Online Purchase,Delhi,Desktop,Grocery,33,Blocked,1
+TXN100883,2026-06-08,00:09,CUST1031,31.58,UPI,Bill Payment,Chennai,Desktop,Utilities,30,Under Review,1
+TXN100884,2026-06-09,07:31,CUST1099,141.45,Net Banking,Money Transfer,Chennai,Desktop,Entertainment,56,Successful,0
+TXN100885,2026-06-09,16:42,CUST1094,490.22,Net Banking,Online Purchase,Hyderabad,Mobile,Grocery,50,Successful,0
+TXN100886,2026-06-09,02:52,CUST1176,165.09,UPI,Money Transfer,Chennai,Tablet,Electronics,43,Successful,1
+TXN100887,2026-06-09,19:29,CUST1006,1593.54,Wallet,Money Transfer,Delhi,Mobile,Utilities,65,Successful,0
+TXN100888,2026-06-09,14:38,CUST1015,31.67,UPI,Money Transfer,Pune,Mobile,Utilities,18,Successful,0
+TXN100889,2026-06-10,14:30,CUST1143,69.31,UPI,Online Purchase,Chennai,Mobile,Entertainment,55,Successful,0
+TXN100890,2026-06-10,23:17,CUST1189,20.0,UPI,Money Transfer,Hyderabad,Mobile,Utilities,19,Successful,0
+TXN100891,2026-06-10,21:35,CUST1016,1331.01,Net Banking,Online Purchase,Bengaluru,Mobile,Food,23,Successful,0
+TXN100892,2026-06-10,13:01,CUST1020,70.46,Debit Card,Online Purchase,Bengaluru,Mobile,Electronics,63,Failed,0
+TXN100893,2026-06-10,22:13,CUST1077,24.86,UPI,ATM,Coimbatore,Mobile,Travel,55,Failed,0
+TXN100894,2026-06-10,13:12,CUST1044,98.31,Credit Card,Money Transfer,Kochi,Desktop,Electronics,59,Successful,0
+TXN100895,2026-06-11,23:28,CUST1170,45.02,Debit Card,Online Purchase,Chennai,Desktop,Food,41,Successful,0
+TXN100896,2026-06-11,01:11,CUST1046,99.01,UPI,Online Purchase,Kochi,Mobile,Entertainment,35,Successful,0
+TXN100897,2026-06-11,12:38,CUST1095,188.9,Net Banking,Online Purchase,Pune,Desktop,Entertainment,44,Successful,0
+TXN100898,2026-06-11,13:01,CUST1162,405.42,Net Banking,Online Purchase,Hyderabad,Desktop,Grocery,58,Successful,0
+TXN100899,2026-06-11,23:31,CUST1064,152.22,Credit Card,Online Purchase,Chennai,Desktop,Electronics,25,Successful,0
+TXN100900,2026-06-11,18:12,CUST1157,185.92,Wallet,Online Purchase,Mumbai,Mobile,Entertainment,45,Successful,0
+TXN100901,2026-06-12,06:45,CUST1131,101.33,Credit Card,Bill Payment,Delhi,Mobile,Utilities,27,Successful,0
+TXN100902,2026-06-12,02:26,CUST1009,39.98,Wallet,Money Transfer,Chennai,Tablet,Entertainment,34,Successful,0
+TXN100903,2026-06-12,14:48,CUST1153,28.6,Debit Card,Money Transfer,Chennai,Mobile,Entertainment,46,Successful,0
+TXN100904,2026-06-12,22:40,CUST1042,125.9,Debit Card,Money Transfer,Kochi,Mobile,Entertainment,23,Successful,0
+TXN100905,2026-06-12,13:16,CUST1174,197.28,UPI,Online Purchase,Kochi,Mobile,Entertainment,31,Successful,0
+TXN100906,2026-06-13,10:39,CUST1073,116.91,Net Banking,Subscription,Bengaluru,Mobile,Travel,39,Successful,0
+TXN100907,2026-06-13,14:30,CUST1084,29.69,Credit Card,ATM,Delhi,Mobile,Travel,23,Successful,0
+TXN100908,2026-06-13,12:33,CUST1059,221.72,UPI,ATM,Hyderabad,Mobile,Grocery,43,Successful,0
+TXN100909,2026-06-13,17:59,CUST1021,924.55,UPI,ATM,Chennai,Mobile,Entertainment,56,Successful,0
+TXN100910,2026-06-13,05:23,CUST1150,161.64,Credit Card,Subscription,Bengaluru,Desktop,Electronics,29,Successful,0
+TXN100911,2026-06-13,02:44,CUST1157,101.54,Credit Card,Money Transfer,Kochi,Desktop,Food,52,Blocked,1
+TXN100912,2026-06-14,18:34,CUST1063,170.63,Debit Card,Online Purchase,Coimbatore,Mobile,Grocery,31,Successful,0
+TXN100913,2026-06-14,14:47,CUST1073,60.08,Net Banking,Money Transfer,Delhi,Tablet,Electronics,39,Successful,0
+TXN100914,2026-06-14,22:05,CUST1061,56.32,UPI,ATM,Bengaluru,Mobile,Entertainment,40,Successful,0
+TXN100915,2026-06-14,04:18,CUST1064,284.69,Debit Card,Money Transfer,Bengaluru,Mobile,Fashion,65,Blocked,1
+TXN100916,2026-06-14,09:29,CUST1069,488.0,UPI,Money Transfer,Pune,Desktop,Entertainment,24,Successful,0
+TXN100917,2026-06-15,06:06,CUST1168,156.48,Net Banking,Online Purchase,Bengaluru,Desktop,Travel,57,Successful,0
+TXN100918,2026-06-15,16:09,CUST1129,25.18,Net Banking,Bill Payment,Pune,Tablet,Food,42,Successful,0
+TXN100919,2026-06-15,06:40,CUST1106,258.1,Credit Card,Subscription,Chennai,Mobile,Utilities,30,Failed,0
+TXN100920,2026-06-15,21:31,CUST1065,1432.79,Debit Card,Money Transfer,Chennai,Desktop,Food,38,Successful,0
+TXN100921,2026-06-15,11:33,CUST1122,142.04,UPI,Money Transfer,Kochi,Mobile,Utilities,58,Successful,0
+TXN100922,2026-06-15,16:27,CUST1062,151.74,Credit Card,Online Purchase,Coimbatore,Mobile,Food,27,Successful,0
+TXN100923,2026-06-16,12:59,CUST1182,75.74,Net Banking,Bill Payment,Mumbai,Desktop,Travel,26,Successful,0
+TXN100924,2026-06-16,19:14,CUST1103,293.35,Credit Card,Subscription,Mumbai,Mobile,Utilities,32,Successful,0
+TXN100925,2026-06-16,03:29,CUST1060,92.67,UPI,Money Transfer,Mumbai,Mobile,Electronics,19,Under Review,1
+TXN100926,2026-06-16,09:36,CUST1046,503.46,Credit Card,ATM,Kochi,Desktop,Utilities,42,Successful,0
+TXN100927,2026-06-16,02:28,CUST1005,93.92,Net Banking,Bill Payment,Pune,Mobile,Grocery,30,Successful,1
+TXN100928,2026-06-17,08:21,CUST1113,255.13,UPI,Money Transfer,Kochi,Mobile,Electronics,51,Successful,0
+TXN100929,2026-06-17,12:03,CUST1150,173.06,UPI,Online Purchase,Delhi,Mobile,Grocery,51,Successful,0
+TXN100930,2026-06-17,17:19,CUST1181,858.44,Debit Card,Money Transfer,Delhi,Mobile,Entertainment,52,Successful,0
+TXN100931,2026-06-17,14:31,CUST1070,273.0,Net Banking,Bill Payment,Coimbatore,Desktop,Food,55,Successful,0
+TXN100932,2026-06-17,03:35,CUST1160,725.61,UPI,Bill Payment,Delhi,Mobile,Electronics,20,Successful,0
+TXN100933,2026-06-17,14:49,CUST1011,202.07,UPI,Money Transfer,Mumbai,Mobile,Food,59,Successful,0
+TXN100934,2026-06-18,21:03,CUST1138,152.82,UPI,Subscription,Mumbai,Desktop,Entertainment,23,Successful,0
+TXN100935,2026-06-18,01:26,CUST1167,174.48,UPI,Online Purchase,Kochi,Mobile,Fashion,65,Successful,0
+TXN100936,2026-06-18,14:16,CUST1098,83.81,Credit Card,ATM,Bengaluru,Mobile,Food,36,Successful,0
+TXN100937,2026-06-18,07:11,CUST1031,308.48,Debit Card,Online Purchase,Delhi,Desktop,Entertainment,20,Successful,0
+TXN100938,2026-06-18,07:21,CUST1012,90.89,Debit Card,Bill Payment,Kochi,Mobile,Food,35,Successful,0
+TXN100939,2026-06-19,16:16,CUST1108,202.85,Debit Card,Online Purchase,Chennai,Mobile,Entertainment,56,Successful,0
+TXN100940,2026-06-19,11:09,CUST1080,426.33,UPI,Online Purchase,Chennai,Mobile,Grocery,26,Successful,0
+TXN100941,2026-06-19,18:53,CUST1166,883.2,Net Banking,Bill Payment,Bengaluru,Desktop,Entertainment,29,Blocked,1
+TXN100942,2026-06-19,09:00,CUST1067,213.33,Credit Card,Online Purchase,Bengaluru,Desktop,Utilities,22,Successful,0
+TXN100943,2026-06-19,08:21,CUST1194,428.89,Wallet,Bill Payment,Bengaluru,Mobile,Fashion,20,Successful,0
+TXN100944,2026-06-19,04:25,CUST1052,380.65,Debit Card,Subscription,Kochi,Mobile,Food,28,Successful,0
+TXN100945,2026-06-20,05:55,CUST1133,123.67,UPI,Online Purchase,Chennai,Desktop,Entertainment,47,Successful,0
+TXN100946,2026-06-20,19:58,CUST1139,1491.9,Debit Card,ATM,Mumbai,Mobile,Entertainment,21,Successful,0
+TXN100947,2026-06-20,01:17,CUST1025,101.88,UPI,Bill Payment,Bengaluru,Mobile,Food,22,Successful,0
+TXN100948,2026-06-20,23:49,CUST1035,198.54,Debit Card,Money Transfer,Coimbatore,Mobile,Fashion,18,Successful,0
+TXN100949,2026-06-20,12:13,CUST1163,775.97,UPI,Online Purchase,Pune,Desktop,Fashion,44,Successful,0
+TXN100950,2026-06-20,05:46,CUST1022,757.07,UPI,Online Purchase,Kochi,Desktop,Entertainment,45,Successful,0
+TXN100951,2026-06-21,04:28,CUST1165,183.89,Net Banking,Online Purchase,Bengaluru,Mobile,Electronics,46,Successful,0
+TXN100952,2026-06-21,00:11,CUST1183,488.05,UPI,Online Purchase,Pune,Mobile,Grocery,35,Successful,0
+TXN100953,2026-06-21,20:35,CUST1096,144.9,Net Banking,Online Purchase,Hyderabad,Desktop,Fashion,29,Successful,0
+TXN100954,2026-06-21,21:58,CUST1117,111.2,UPI,Money Transfer,Bengaluru,Mobile,Fashion,30,Successful,0
+TXN100955,2026-06-21,20:34,CUST1200,53.9,Debit Card,Subscription,Chennai,Tablet,Travel,58,Successful,0
+TXN100956,2026-06-22,05:51,CUST1192,373.86,Debit Card,ATM,Delhi,Mobile,Utilities,19,Successful,0
+TXN100957,2026-06-22,05:11,CUST1020,415.39,Credit Card,Money Transfer,Bengaluru,Mobile,Fashion,54,Successful,0
+TXN100958,2026-06-22,22:06,CUST1106,102.73,UPI,Online Purchase,Kochi,Mobile,Grocery,62,Successful,0
+TXN100959,2026-06-22,15:28,CUST1004,237.01,UPI,Online Purchase,Delhi,Mobile,Utilities,33,Successful,0
+TXN100960,2026-06-22,03:10,CUST1018,2568.27,UPI,Online Purchase,Hyderabad,Tablet,Utilities,65,Successful,0
+TXN100961,2026-06-22,10:32,CUST1051,570.6,UPI,Online Purchase,Coimbatore,Mobile,Food,41,Successful,0
+TXN100962,2026-06-23,23:05,CUST1196,73.59,Debit Card,Bill Payment,Delhi,Desktop,Food,52,Successful,0
+TXN100963,2026-06-23,22:46,CUST1020,493.52,Wallet,Money Transfer,Pune,Mobile,Food,39,Successful,0
+TXN100964,2026-06-23,08:14,CUST1122,73.93,Net Banking,Bill Payment,Mumbai,Mobile,Food,53,Successful,0
+TXN100965,2026-06-23,22:31,CUST1137,20.0,Debit Card,Bill Payment,Bengaluru,Mobile,Travel,28,Successful,0
+TXN100966,2026-06-23,02:50,CUST1080,177.61,Debit Card,ATM,Hyderabad,Mobile,Fashion,63,Successful,0
+TXN100967,2026-06-24,18:10,CUST1154,865.41,Debit Card,ATM,Hyderabad,Tablet,Food,46,Successful,0
+TXN100968,2026-06-24,07:57,CUST1102,733.22,UPI,Online Purchase,Delhi,Mobile,Entertainment,52,Successful,0
+TXN100969,2026-06-24,04:22,CUST1025,264.34,Net Banking,Subscription,Coimbatore,Mobile,Electronics,65,Successful,0
+TXN100970,2026-06-24,03:25,CUST1196,105.45,Debit Card,Subscription,Chennai,Mobile,Food,32,Successful,0
+TXN100971,2026-06-24,23:33,CUST1169,294.84,Credit Card,Online Purchase,Bengaluru,Mobile,Fashion,48,Successful,0
+TXN100972,2026-06-24,05:45,CUST1059,138.5,UPI,Bill Payment,Hyderabad,Mobile,Food,59,Successful,0
+TXN100973,2026-06-25,01:33,CUST1045,108.46,Credit Card,Bill Payment,Coimbatore,Desktop,Travel,58,Under Review,1
+TXN100974,2026-06-25,19:28,CUST1041,524.27,Credit Card,Subscription,Mumbai,Mobile,Grocery,60,Successful,0
+TXN100975,2026-06-25,10:03,CUST1038,107.12,Net Banking,ATM,Hyderabad,Mobile,Grocery,33,Successful,0
+TXN100976,2026-06-25,03:16,CUST1117,559.61,Credit Card,Online Purchase,Coimbatore,Mobile,Fashion,27,Successful,0
+TXN100977,2026-06-25,14:34,CUST1019,100.26,UPI,Bill Payment,Kochi,Tablet,Entertainment,49,Successful,0
+TXN100978,2026-06-26,05:12,CUST1014,1420.11,Wallet,Money Transfer,Chennai,Mobile,Grocery,19,Successful,0
+TXN100979,2026-06-26,21:40,CUST1127,35.14,UPI,Bill Payment,Chennai,Mobile,Grocery,41,Successful,0
+TXN100980,2026-06-26,16:38,CUST1149,69.63,Credit Card,Online Purchase,Hyderabad,Mobile,Electronics,40,Blocked,1
+TXN100981,2026-06-26,23:14,CUST1143,155.19,UPI,ATM,Pune,Mobile,Fashion,19,Successful,0
+TXN100982,2026-06-26,05:54,CUST1003,24.93,Debit Card,Money Transfer,Hyderabad,Mobile,Entertainment,55,Successful,0
+TXN100983,2026-06-26,18:28,CUST1037,20.0,Net Banking,ATM,Delhi,Mobile,Fashion,48,Successful,0
+TXN100984,2026-06-27,01:28,CUST1117,25.14,UPI,ATM,Bengaluru,Desktop,Grocery,57,Successful,1
+TXN100985,2026-06-27,14:10,CUST1174,135.36,Net Banking,ATM,Coimbatore,Mobile,Grocery,43,Successful,0
+TXN100986,2026-06-27,10:51,CUST1016,138.84,UPI,Bill Payment,Hyderabad,Desktop,Grocery,46,Successful,0
+TXN100987,2026-06-27,07:31,CUST1142,252.9,Net Banking,Money Transfer,Bengaluru,Mobile,Utilities,20,Successful,0
+TXN100988,2026-06-27,18:01,CUST1009,148.86,Debit Card,Online Purchase,Delhi,Mobile,Travel,31,Successful,0
+TXN100989,2026-06-28,12:46,CUST1007,244.57,Net Banking,Money Transfer,Kochi,Mobile,Food,42,Successful,0
+TXN100990,2026-06-28,11:13,CUST1142,115.56,UPI,Online Purchase,Kochi,Mobile,Travel,65,Successful,0
+TXN100991,2026-06-28,04:19,CUST1134,370.49,Wallet,Money Transfer,Bengaluru,Desktop,Fashion,18,Successful,1
+TXN100992,2026-06-28,05:21,CUST1015,328.43,Debit Card,Online Purchase,Hyderabad,Mobile,Electronics,20,Successful,0
+TXN100993,2026-06-28,21:10,CUST1180,130.75,UPI,Online Purchase,Chennai,Mobile,Food,43,Successful,0
+TXN100994,2026-06-28,03:26,CUST1072,308.9,Net Banking,Online Purchase,Coimbatore,Mobile,Electronics,35,Successful,1
+TXN100995,2026-06-29,18:02,CUST1162,149.81,UPI,Online Purchase,Coimbatore,Tablet,Entertainment,26,Failed,0
+TXN100996,2026-06-29,19:16,CUST1104,39.55,Net Banking,Money Transfer,Kochi,Mobile,Utilities,55,Successful,0
+TXN100997,2026-06-29,00:43,CUST1129,447.87,UPI,Money Transfer,Kochi,Tablet,Fashion,40,Under Review,1
+TXN100998,2026-06-29,19:55,CUST1096,73.2,Debit Card,Bill Payment,Chennai,Mobile,Utilities,38,Successful,0
+TXN100999,2026-06-29,16:27,CUST1122,443.11,Credit Card,Online Purchase,Pune,Mobile,Fashion,18,Successful,1
+TXN101000,2026-06-30,11:28,CUST1115,250.64,UPI,Online Purchase,Hyderabad,Mobile,Electronics,38,Successful,0

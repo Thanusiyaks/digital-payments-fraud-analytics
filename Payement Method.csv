@@ -1,0 +1,8 @@
+Payment_Method,Sum of Fraud_Flag,Sum of Amount
+Credit Card,15,54189.19
+Debit Card,27,75808.79
+Net Banking,14,47124.64
+UPI,43,123501.8
+Wallet,18,23708.14
+(blank),0,1614.73
+Grand Total,117,325947.29
